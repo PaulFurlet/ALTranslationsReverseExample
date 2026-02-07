@@ -11,11 +11,11 @@ codeunit 50000 "TRE Check Codeunit"
     local procedure CalledLocalFunction()
     var
         SalesLine: Record "Sales Line";
-        myLocalLabel: Label 'Local Label in CalledLocalFunction';
-        myLocalLabelWithDescribedPlaceholders: Label 'Local %1 Label %2 in %3 CalledLocalFunction', Comment = '%1 ph1, %2 ph2, %3 ph3';
-        myLocalLabelWithPlaceholders: Label 'Local %1 Label %2 in %3 CalledLocalFunction';
-        myLocalFilter: Label '%1|%2|%3', Comment = '%1 filter1, %2 filter2, %3 filter3';
-        myLocalFilterNoDescription: Label '%1|%2|%3';
+        myLocalLabel: Label 'Local Label in CalledLocalFunction', Comment = 'uk-UA=Локальна мітка у CalledLocalFunction';
+        myLocalLabelWithDescribedPlaceholders: Label 'Local %1 Label %2 in %3 CalledLocalFunction', Comment = '%1 ph1, %2 ph2, %3 ph3|uk-UA=Локальна %1 мітка %2 у %3 CalledLocalFunction';
+        myLocalLabelWithPlaceholders: Label 'Local %1 Label %2 in %3 CalledLocalFunction', Comment = 'uk-UA=Локальна %1 мітка %2 у %3 CalledLocalFunction';
+        myLocalFilter: Label '%1|%2|%3', Comment = '%1 filter1, %2 filter2, %3 filter3|uk-UA=%1|%2|%3';
+        myLocalFilterNoDescription: Label '%1|%2|%3', Comment = 'uk-UA=%1|%2|%3';
         myLocalLockedFilter: Label '%1|%2|%3', Locked = true, Comment = '%1 filter1, %2 filter2, %3 filter3';
         myLocalLockedFilterNoDescription: Label '%1|%2|%3', Locked = true;
         myLocalLockedLabel: Label 'Local Locked Label in CalledLocalFunction', Locked = true;
