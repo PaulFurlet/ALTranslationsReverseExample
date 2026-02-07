@@ -32,7 +32,6 @@ page 50000 "TRE Check Page"
                     var
                         LocalVarLabel: Label 'OnAfterLookup Trigger';
                     begin
-
                     end;
                 }
                 field("Table TRE Check Table - Field"; Rec."Table TRE Check Table - Field")
@@ -41,7 +40,6 @@ page 50000 "TRE Check Page"
                     var
                         LocalVarLabel: Label 'OnAssistEdit Trigger';
                     begin
-
                     end;
                 }
                 field("Field 4"; Rec."Field 4")
@@ -50,7 +48,6 @@ page 50000 "TRE Check Page"
                     var
                         LocalVarLabel: Label 'OnControlAddIn Trigger';
                     begin
-
                     end;
                 }
                 field(Field6; Rec.Field6)
@@ -59,7 +56,6 @@ page 50000 "TRE Check Page"
                     var
                         LocalVarLabel: Label 'OnDrillDown Trigger';
                     begin
-
                     end;
                 }
                 field("Field ""7"""; Rec."Field ""7""")
@@ -68,7 +64,6 @@ page 50000 "TRE Check Page"
                     var
                         LocalVarLabel: Label 'OnLookup Trigger';
                     begin
-
                     end;
                 }
                 field("Field 2"; Rec."Field 2")
@@ -77,7 +72,6 @@ page 50000 "TRE Check Page"
                     var
                         LocalVarLabel: Label 'OnValidate Trigger';
                     begin
-
                     end;
                 }
                 field("Field 3"; Rec."Field 3")
@@ -92,6 +86,72 @@ page 50000 "TRE Check Page"
                     ToolTip = 'This is a ToolTip for Option Field.';
                     OptionCaption = 'Option 1 Caption,Option 2 Caption,Option 3 Caption';
                 }
+            }
+            group(Additional)
+            {
+                Caption = 'Additional';
+                AboutTitle = 'About Additional group Title';
+                InstructionalText = 'This is an Instructional Text for Additional group';
+                AboutText = 'This is a About Text for Additional group';
+                grid(somegrid)
+                {
+                    AboutTitle = 'About Some Grid Title';
+                    Caption = 'Some Grid';
+                    AboutText = 'This is a About Text for Some Grid';
+                    InstructionalText = 'This is an Instructional Text for Some Grid';
+                    group(groupInGrid)
+                    {
+                        Caption = 'Group in Grid';
+                        InstructionalText = 'This is an Instructional Text for Group in Grid';
+                        AboutText = 'This is a About Text for Group in Grid';
+                        AboutTitle = 'About Group in Grid Title';
+                        field("Field 2 in group Grid"; Rec."Field 2")
+                        {
+                            ToolTip = 'This is a ToolTip for Field 2 in Grid.';
+                            AboutText = 'This is a About Text for Field 2 in Grid';
+                            AboutTitle = 'About Field 2 in Grid Title';
+                            InstructionalText = 'This is an Instructional Text for Field 2 in Grid';
+                        }
+                        group(AnotherGroupInGrid)
+                        {
+                            Caption = 'Another Group in Grid';
+                            field("Field 3 in group Grid"; Rec."Field 3")
+                            {
+                                ToolTip = 'This is a ToolTip for Field 3 in Grid.';
+                                AboutText = 'This is a About Text for Field 3 in Grid';
+                                AboutTitle = 'About Field 3 in Grid Title';
+                                InstructionalText = 'This is an Instructional Text for Field 3 in Grid';
+                            }
+                            group(ThirdGroupInGrid)
+                            {
+                                Caption = 'Third Group in Grid';
+                                AboutText = 'This is a About Text for Third Group in Grid';
+                                AboutTitle = 'About Third Group in Grid Title';
+                                InstructionalText = 'This is an Instructional Text for Third Group in Grid';
+                                field("Field 4 in group Grid"; Rec."Field 4")
+                                {
+                                    ToolTip = 'This is a ToolTip for Field 4 in Grid.';
+                                    AboutText = 'This is a About Text for Field 4 in Grid';
+                                    AboutTitle = 'About Field 4 in Grid Title';
+                                    InstructionalText = 'This is an Instructional Text for Field 4 in Grid';
+                                    Caption = 'Field 4 in Grid';
+                                    trigger OnDrillDown()
+                                    var
+                                        LocalVarLabel: Label 'Field 4 in Grid OnDrillDown Trigger';
+                                    begin
+                                    end;
+                                    //etc etc etc
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            part(SomePart; "Account Manager Activities")
+            {
+                AboutText = 'This is a About Text for Some Part';
+                AboutTitle = 'About Some Part Title';
+                Caption = 'Some Part';
             }
         }
         area(FactBoxes)
@@ -108,9 +168,84 @@ page 50000 "TRE Check Page"
             }
         }
     }
+    actions
+    {
+        area(Creation)
+        {
+            action(SomeAction)
+            {
+                Caption = 'Some Action';
+                ToolTip = 'This is a ToolTip for Some Action.';
+                AboutText = 'This is a About Text for Some Action';
+                AboutTitle = 'About Some Action Title';
+                Image = New;
+                trigger OnAction()
+                var
+                    LocalVarLabel: Label 'SomeAction OnAction Trigger';
+                begin
+
+                end;
+            }
+            group(SomeGroup)
+            {
+                Caption = 'Some Group';
+                action(SomeActionInGroup)
+                {
+                    Caption = 'Some Action in Group';
+                    ToolTip = 'This is a ToolTip for Some Action in Group.';
+                    AboutText = 'This is a About Text for Some Action in Group';
+                    AboutTitle = 'About Some Action in Group Title';
+                    Image = New;
+                    trigger OnAction()
+                    var
+                        LocalVarLabel: Label 'SomeActionInGroup OnAction Trigger';
+                    begin
+                    end;
+                }
+                group(anothergroupInGroup)
+                {
+                    Caption = 'Another Group in Group';
+                    action(SomeActionInAnotherGroup)
+                    {
+                        Caption = 'Some Action in Another Group';
+                        ToolTip = 'This is a ToolTip for Some Action in Another Group.';
+                        AboutText = 'This is a About Text for Some Action in Another Group';
+                        AboutTitle = 'About Some Action in Another Group Title';
+                        Image = New;
+                        trigger OnAction()
+                        var
+                            LocalVarLabel: Label 'SomeActionInAnotherGroup OnAction Trigger';
+                        begin
+
+                        end;
+                    }
+                }
+            }
+        }
+        area(Promoted)
+        {
+            group(SomeGroupInPromoted)
+            {
+                Caption = 'Some Group in Promoted';
+                AboutText = 'This is a About Text for Some Group in Promoted';
+                AboutTitle = 'About Some Group in Promoted Title';
+                ShowAs = SplitButton;
+                actionref(SomeAction2_Promoted; SomeAction) { }
+            }
+            actionref(SomeAction_Promoted; SomeAction) { }
+        }
+    }
+
 
     var
         OptionVariable: Option "Option 1","Option 2","Option 3";
+        GlobalVarLabel: Label 'Global Variable';
 
+    local procedure SomeLocalProcedure()
+    var
+        LocalVarLabel: Label 'SomeLocalProcedure Label';
+    begin
+
+    end;
 
 }

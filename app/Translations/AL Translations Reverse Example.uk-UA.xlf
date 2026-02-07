@@ -489,6 +489,294 @@
           <note from="Developer" annotates="general" priority="2">Some comment about %1 placeholder</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Interface Codeunit 1 - Method CheckInterfaceMethod2 - NamedType LocalLabel</note>
         </trans-unit>
+        <trans-unit id="Page 3068689440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check List Page</source>
+          <target>Сторінка контрольного списку</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 2955474825 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Grid group Title</source>
+          <target>Заголовок Про групу сітки</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control GridGroup - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 2955474825 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is an Instructional Text for Grid group</source>
+          <target>Це інструктивний текст для групи сітки</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control GridGroup - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 2955474825 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a About Text for Grid group</source>
+          <target>Це текст про групу сітки</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control GridGroup - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 2955474825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Grid</source>
+          <target>Сітка</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control GridGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 3088024332 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Group in Grid Title</source>
+          <target>Про групу в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control GroupInGrid - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 3088024332 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is an Instructional Text for Group in Grid</source>
+          <target>Це інструктивний текст для групи в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control GroupInGrid - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 3088024332 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a About Text for Group in Grid</source>
+          <target>Це текст про групу в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control GroupInGrid - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 3088024332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group in Grid</source>
+          <target>Група в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control GroupInGrid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 4103485724 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Group in Group in Grid Title</source>
+          <target>Про групу в групі в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control GroupInGroupInGrid - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 4103485724 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is an Instructional Text for Group in Group in Grid</source>
+          <target>Це інструктивний текст для групи в групі в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control GroupInGroupInGrid - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 4103485724 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a About Text for Group in Group in Grid</source>
+          <target>Це текст про групу в групі в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control GroupInGroupInGrid - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 4103485724 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group in Group in Grid</source>
+          <target>Група в групі в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control GroupInGroupInGrid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 2154142912 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a ToolTip for Number field in Group in Grid.</source>
+          <target>Це підказка для поля "Число" в групі в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control NumberInGroupInGrid - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 2154142912 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is an Instructional Text for Number field in Group in Grid</source>
+          <target>Це інструктивний текст для поля "Число" в групі в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control NumberInGroupInGrid - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 2154142912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number in Group in Grid</source>
+          <target>Число в групі в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control NumberInGroupInGrid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 2154142912 - Method 236405353 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NumberInGroupInGrid OnAfterLookup Trigger</source>
+          <target>Тригер OnAfterLookup для NumberInGroupInGrid</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control NumberInGroupInGrid - Method OnAfterLookup - NamedType LocalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 2154142912 - Method 2699620902 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NumberInGroupInGrid OnAssistEdit Trigger</source>
+          <target>Тригер OnAssistEdit для NumberInGroupInGrid</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control NumberInGroupInGrid - Method OnAssistEdit - NamedType LocalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 2154142912 - Method 3936589804 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NumberInGroupInGrid OnControlAddIn Trigger</source>
+          <target>Тригер OnControlAddIn для NumberInGroupInGrid</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control NumberInGroupInGrid - Method OnControlAddIn - NamedType LocalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 2154142912 - Method 1845446376 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NumberInGroupInGrid OnDrillDown Trigger</source>
+          <target>Тригер OnDrillDown для NumberInGroupInGrid</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control NumberInGroupInGrid - Method OnDrillDown - NamedType LocalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 2154142912 - Method 1213635141 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NumberInGroupInGrid OnLookup Trigger</source>
+          <target>Тригер OnLookup для NumberInGroupInGrid</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control NumberInGroupInGrid - Method OnLookup - NamedType LocalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 2154142912 - Method 2126772001 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NumberInGroupInGrid OnValidate Trigger</source>
+          <target>Тригер OnValidate для NumberInGroupInGrid</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control NumberInGroupInGrid - Method OnValidate - NamedType LocalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 4136083296 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Number field in Grid Title</source>
+          <target>Про поле "Число" в заголовку сітки</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control NumberInGrid - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 4136083296 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a ToolTip for Number field.</source>
+          <target>Це підказка для поля "Число"</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control NumberInGrid - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 4136083296 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is an Instructional Text for Number field in Grid</source>
+          <target>Це інструктивний текст для поля "Число" в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control NumberInGrid - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 4136083296 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a About Text for Number field in Grid</source>
+          <target>Це текст про поле "Число" в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control NumberInGrid - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 4136083296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number</source>
+          <target>Число</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control NumberInGrid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 4136083296 - Method 236405353 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NumberInGrid OnAfterLookup Trigger</source>
+          <target>Тригер OnAfterLookup для NumberInGrid</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control NumberInGrid - Method OnAfterLookup - NamedType LocalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 4136083296 - Method 2699620902 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NumberInGrid OnAssistEdit Trigger</source>
+          <target>Тригер OnAssistEdit для NumberInGrid</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control NumberInGrid - Method OnAssistEdit - NamedType LocalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 4136083296 - Method 3936589804 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NumberInGrid OnControlAddIn Trigger</source>
+          <target>Тригер OnControlAddIn для NumberInGrid</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control NumberInGrid - Method OnControlAddIn - NamedType LocalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 4136083296 - Method 1845446376 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NumberInGrid OnDrillDown Trigger</source>
+          <target>Тригер OnDrillDown для NumberInGrid</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control NumberInGrid - Method OnDrillDown - NamedType LocalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 4136083296 - Method 1213635141 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NumberInGrid OnLookup Trigger</source>
+          <target>Тригер OnLookup для NumberInGrid</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control NumberInGrid - Method OnLookup - NamedType LocalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 4136083296 - Method 2126772001 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NumberInGrid OnValidate Trigger</source>
+          <target>Тригер OnValidate для NumberInGrid</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control NumberInGrid - Method OnValidate - NamedType LocalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 679507329 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Group without controls Title</source>
+          <target>Про групу без елементів керування</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control GroupWithoutControls - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 679507329 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is an Instructional Text for Group without controls</source>
+          <target>Це інструктивний текст для групи без елементів керування</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control GroupWithoutControls - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 679507329 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a About Text for Group without controls</source>
+          <target>Це текст про групу без елементів керування</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control GroupWithoutControls - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 679507329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group without controls</source>
+          <target>Група без елементів керування</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control GroupWithoutControls - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 3374129873 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About General group Title</source>
+          <target>Заголовок загальної групи (Про)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control RepeaterGroup - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 3374129873 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is an Instructional Text for General group</source>
+          <target>Це інструктивний текст для загальної групи</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control RepeaterGroup - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 3374129873 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a About Text for General group</source>
+          <target>Це текст про загальну групу</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control RepeaterGroup - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 3374129873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target>Загальні</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control RepeaterGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 2272340397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a ToolTip for Number field.</source>
+          <target>Це підказка для поля Номер.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control Number - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 2272340397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number</source>
+          <target>Номер</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - Control 2272340397 - Method 236405353 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OnAfterLookup Trigger</source>
+          <target>Тригер OnAfterLookup</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Control Number - Method OnAfterLookup - NamedType LocalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - View 1755733334 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page TRE Check List Page - View View</source>
+          <target>Оце так загнув - перегляд із назвою як у файлі перекладу</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - View Page TRE Check List Page - View View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - View 559071769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View 2</source>
+          <target>Перегляд 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - View View 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - View 1196768386 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View 3</source>
+          <target>Перегляд 3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - View View 3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3068689440 - View 365018640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View 1</source>
+          <target>Перегляд 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - View View1 - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1355965514 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
           <source>About Check Page Title</source>
           <target>Заголовок Сторінки Перевірки (про)</target>
@@ -518,6 +806,204 @@
           <target>Додаткові пошукові терміни Сторінки Перевірки</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - NamedType 2551307364" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Variable</source>
+          <target>Глобальна змінна</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - NamedType GlobalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Method 1586255616 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SomeLocalProcedure Label</source>
+          <target>Мітка деякої локальної процедури</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Method SomeLocalProcedure - NamedType LocalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 4253802235 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Additional group Title</source>
+          <target>Про додаткову групу</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Additional - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 4253802235 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is an Instructional Text for Additional group</source>
+          <target>Це інструктивний текст для додаткової групи</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Additional - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 4253802235 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a About Text for Additional group</source>
+          <target>Це текст про додаткову групу</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Additional - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 4253802235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Additional</source>
+          <target>Додатково</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Additional - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 151661624 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Some Grid Title</source>
+          <target>Заголовок Про деяку сітку</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control somegrid - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 151661624 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is an Instructional Text for Some Grid</source>
+          <target>Це інструктивний текст для деякої сітки</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control somegrid - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 151661624 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a About Text for Some Grid</source>
+          <target>Це текст про деяку сітку</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control somegrid - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 151661624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Some Grid</source>
+          <target>Деяка сітка</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control somegrid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 1955320108 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Group in Grid Title</source>
+          <target>Про групу в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control groupInGrid - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 1955320108 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is an Instructional Text for Group in Grid</source>
+          <target>Це інструктивний текст для групи в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control groupInGrid - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 1955320108 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a About Text for Group in Grid</source>
+          <target>Це текст про групу в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control groupInGrid - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 1955320108 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group in Grid</source>
+          <target>Група в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control groupInGrid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 4072669317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Another Group in Grid</source>
+          <target>Інша група в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control AnotherGroupInGrid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 2839190395 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Field 3 in Grid Title</source>
+          <target>Заголовок Про поле 3 в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Field 3 in group Grid - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 2839190395 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a ToolTip for Field 3 in Grid.</source>
+          <target>Це підказка для поля 3 в сітці.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Field 3 in group Grid - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 2839190395 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is an Instructional Text for Field 3 in Grid</source>
+          <target>Це інструктивний текст для поля 3 в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Field 3 in group Grid - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 2839190395 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a About Text for Field 3 in Grid</source>
+          <target>Це текст про поле 3 в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Field 3 in group Grid - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 4216704293 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Third Group in Grid Title</source>
+          <target>Про третю групу в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control ThirdGroupInGrid - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 4216704293 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is an Instructional Text for Third Group in Grid</source>
+          <target>Це інструктивний текст для третьої групи в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control ThirdGroupInGrid - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 4216704293 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a About Text for Third Group in Grid</source>
+          <target>Це текст про третю групу в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control ThirdGroupInGrid - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 4216704293 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Third Group in Grid</source>
+          <target>Третя група в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control ThirdGroupInGrid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 4056625106 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Field 4 in Grid Title</source>
+          <target>Заголовок Про поле 4 в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Field 4 in group Grid - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 4056625106 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a ToolTip for Field 4 in Grid.</source>
+          <target>Це підказка для поля 4 в сітці.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Field 4 in group Grid - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 4056625106 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is an Instructional Text for Field 4 in Grid</source>
+          <target>Це інструктивний текст для поля 4 в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Field 4 in group Grid - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 4056625106 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a About Text for Field 4 in Grid</source>
+          <target>Це текст про поле 4 в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Field 4 in group Grid - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 4056625106 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field 4 in Grid</source>
+          <target>Поле 4 в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Field 4 in group Grid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 4056625106 - Method 1845446376 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field 4 in Grid OnDrillDown Trigger</source>
+          <target>Поле 4 в сітці OnDrillDown тригер</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Field 4 in group Grid - Method OnDrillDown - NamedType LocalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 4167079396 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Field 2 in Grid Title</source>
+          <target>Заголовок Про поле 2 в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Field 2 in group Grid - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 4167079396 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a ToolTip for Field 2 in Grid.</source>
+          <target>Це підказка для поля 2 в сітці.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Field 2 in group Grid - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 4167079396 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is an Instructional Text for Field 2 in Grid</source>
+          <target>Це інструктивний текст для поля 2 в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Field 2 in group Grid - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 4167079396 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a About Text for Field 2 in Grid</source>
+          <target>Це текст про поле 2 в сітці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Field 2 in group Grid - Property AboutText</note>
         </trans-unit>
         <trans-unit id="Page 1355965514 - Control 2445482498 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
           <source>About General group Title</source>
@@ -615,6 +1101,24 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Table TRE Check Table - Field - Method OnAssistEdit - NamedType LocalVarLabel</note>
         </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 2394029789 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Some Part Title</source>
+          <target>Заголовок Про деяку частину</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control SomePart - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 2394029789 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a About Text for Some Part</source>
+          <target>Це текст про деяку частину</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control SomePart - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 2394029789 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Some Part</source>
+          <target>Деяка частина</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control SomePart - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1355965514 - Control 222620933 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>System FactBox with Notes</source>
           <target>Системний FactBox з нотатками</target>
@@ -627,245 +1131,1061 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control somefactbox - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
-          <source>Check Table Extension</source>
-          <target>Перевірне Розширення Таблиці</target>
+        <trans-unit id="Page 1355965514 - Action 3552006254 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Some Action Title</source>
+          <target>Заголовок Про деяку дію</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeAction - Property AboutTitle</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - NamedType 3485954479" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Page 1355965514 - Action 3552006254 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a ToolTip for Some Action.</source>
+          <target>Це підказка для деякої дії.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 3552006254 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a About Text for Some Action</source>
+          <target>Це текст про деяку дію</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeAction - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 3552006254 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Some Action</source>
+          <target>Деяка дія</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 3552006254 - Method 1377591017 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SomeAction OnAction Trigger</source>
+          <target>Тригер OnAction Деякої Дії</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeAction - Method OnAction - NamedType LocalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 1590924901 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Some Group</source>
+          <target>Деяка група</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 851215824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Another Group in Group</source>
+          <target>Інша група в групі</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action anothergroupInGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 3088644787 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Some Action in Another Group Title</source>
+          <target>Заголовок Про деяку дію в іншій групі</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeActionInAnotherGroup - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 3088644787 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a ToolTip for Some Action in Another Group.</source>
+          <target>Це підказка для деякої дії в іншій групі.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeActionInAnotherGroup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 3088644787 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a About Text for Some Action in Another Group</source>
+          <target>Це текст про деяку дію в іншій групі</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeActionInAnotherGroup - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 3088644787 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Some Action in Another Group</source>
+          <target>Деяка дія в іншій групі</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeActionInAnotherGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 3088644787 - Method 1377591017 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SomeActionInAnotherGroup OnAction Trigger</source>
+          <target>Тригер OnAction Деякої Дії в іншій групі</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeActionInAnotherGroup - Method OnAction - NamedType LocalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 2047329190 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Some Action in Group Title</source>
+          <target>Про деяку дію в групі</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeActionInGroup - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 2047329190 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a ToolTip for Some Action in Group.</source>
+          <target>Це підказка для деякої дії в групі.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeActionInGroup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 2047329190 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a About Text for Some Action in Group</source>
+          <target>Це текст про деяку дію в групі</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeActionInGroup - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 2047329190 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Some Action in Group</source>
+          <target>Деяка дія в групі</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeActionInGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 2047329190 - Method 1377591017 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SomeActionInGroup OnAction Trigger</source>
+          <target>Тригер OnAction Деякої Дії в групі</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeActionInGroup - Method OnAction - NamedType LocalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 2509503154 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Some Group in Promoted Title</source>
+          <target>Про деяку групу в просуванні</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeGroupInPromoted - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 2509503154 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a About Text for Some Group in Promoted</source>
+          <target>Це текст про деяку групу в просуванні</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeGroupInPromoted - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 2509503154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Some Group in Promoted</source>
+          <target>Деяка група в просуванні</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeGroupInPromoted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Report</source>
+          <target>Перевірка друкованої форми</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - RequestPage 2516438534 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XMLPort Request Page Title</source>
+          <target>Заголовок сторінки запиту XMLPort</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - RequestPage RequestOptionsPage - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - RequestPage 2516438534 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is Instructional Text on the XMLPort Request Page.</source>
+          <target>Це інструктивний текст на сторінці запиту XMLPort.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - RequestPage RequestOptionsPage - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - RequestPage 2516438534 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is About XMLPort in the Request Page.</source>
+          <target>Це про XMLPort на сторінці запиту.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - RequestPage RequestOptionsPage - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - RequestPage 2516438534 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XMLPort Request Page</source>
+          <target>Сторінка запиту XMLPort</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - RequestPage RequestOptionsPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - RequestPage 2516438534 - NamedType 1379285705" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the protected variables section of Request Page.</source>
+          <target>Це мітка в розділі захищених змінних сторінки запиту.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - RequestPage RequestOptionsPage - NamedType LabelInProtectedVarSection</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - RequestPage 2516438534 - NamedType 534256689" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the variables section of the Request Page.</source>
+          <target>Це мітка в розділі змінних сторінки запиту.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - RequestPage RequestOptionsPage - NamedType LabelInRequestPageVarSection</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Control 4105281732 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group Title</source>
+          <target>Заголовок групи</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Control GroupName - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Control 4105281732 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is Instructional Text for the group.</source>
+          <target>Це інструктивний текст для групи.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Control GroupName - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Control 4105281732 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is About text for the group.</source>
+          <target>Це про групу.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Control GroupName - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group Caption</source>
+          <target>Підпис групи</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Control 166597695 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Root Node Name Field Title</source>
+          <target>Заголовок поля кореневого вузла</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Control FieldName - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Control 166597695 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a tooltip for the Root Node Name field.</source>
+          <target>Це підказка для поля кореневого вузла.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Control FieldName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Control 166597695 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is Instructional Text for the Root Node Name field.</source>
+          <target>Це інструктивний текст для поля кореневого вузла.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Control FieldName - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Control 166597695 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is About text for the Root Node Name field.</source>
+          <target>Це текст про поле кореневого вузла.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Control FieldName - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Control 166597695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Root Node Name</source>
+          <target>Назва кореневого вузла</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Control FieldName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Control 166597695 - Method 2126772001 - NamedType 546585477" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the field.</source>
+          <target>Це мітка в полі.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Control FieldName - Method OnValidate - NamedType LabelInField</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Control 982202860 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field 7 Title</source>
+          <target>Заголовок поля 7</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Control TRECheckTable."Field ""7""" - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Control 982202860 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a tooltip for Field 7.</source>
+          <target>Це підказка для поля 7.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Control TRECheckTable."Field ""7""" - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Control 982202860 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is Instructional Text for Field 7.</source>
+          <target>Це інструктивний текст для поля 7.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Control TRECheckTable."Field ""7""" - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Control 982202860 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is About text for Field 7.</source>
+          <target>Це текст про поле 7.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Control TRECheckTable."Field ""7""" - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Control 982202860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>How do you like the name of the control?</source>
+          <target>Як вам подобається назва елемента керування?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Control TRECheckTable."Field ""7""" - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Control 982202860 - Method 236405353 - NamedType 546585477" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in Field 7.</source>
+          <target>Це мітка в полі 7.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Control TRECheckTable."Field ""7""" - Method OnAfterLookup - NamedType LabelInField</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Action 3527587360 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Another Action Title</source>
+          <target>Інша назва дії</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Action Action2 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Action 3527587360 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a tooltip for another action.</source>
+          <target>Це підказка для іншої дії.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Action Action2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Action 3527587360 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is About text for another action.</source>
+          <target>Це текст про іншу дію.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Action Action2 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Action 3527587360 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Another Action</source>
+          <target>Інша дія</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Action Action2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Action 3527587360 - Method 1377591017 - NamedType 2444974753" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in another action.</source>
+          <target>Це мітка в іншій дії.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Action Action2 - Method OnAction - NamedType LabelInAction</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Action 4213832383 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Actions Group Title</source>
+          <target>Заголовок групи дій</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Action ActionsGroupName - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Action 4213832383 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a tooltip for the actions group.</source>
+          <target>Це підказка для групи дій.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Action ActionsGroupName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Action 4213832383 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is About text for the actions group.</source>
+          <target>Це текст про групу дій.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Action ActionsGroupName - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Action 4213832383 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Actions Group</source>
+          <target>Група дій</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Action ActionsGroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Action 4165283977 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run XMLPort Action Title</source>
+          <target>Запустити дію XMLPort</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Action Action1 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Action 4165283977 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a tooltip for the Run XMLPort action.</source>
+          <target>Це підказка для дії Run XMLPort.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Action Action1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Action 4165283977 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is About text for the Run XMLPort action.</source>
+          <target>Це текст про дію Run XMLPort.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Action Action1 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Action 4165283977 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run XMLPort</source>
+          <target>Запустити XMLPort</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Action Action1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - Action 4165283977 - Method 1377591017 - NamedType 2444974753" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the action.</source>
+          <target>Це мітка в дії.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Action Action1 - Method OnAction - NamedType LabelInAction</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - ReportLayout 2313414932 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the summary of the rendering layout.</source>
+          <target>Це підсумок макета відображення.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - ReportLayout RenderingLayout - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - ReportLayout 2313414932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Report Layout</source>
+          <target>Перевірити макет звіту</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - ReportLayout RenderingLayout - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1232026921 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Query About Title</source>
+          <target>Перевірити заголовок запиту</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query TRE Check Query - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Query 1232026921 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a query used for testing the translation of labels in different parts of AL objects.</source>
+          <target>Це запит, який використовується для тестування перекладу міток у різних частинах об'єктів AL.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query TRE Check Query - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Query 1232026921 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Query</source>
+          <target>Перевірити запит</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query TRE Check Query - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1232026921 - NamedType 4288599919" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the variables section of the query.</source>
+          <target>Це мітка в розділі змінних запиту.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query TRE Check Query - NamedType LabelInVarSection</note>
+        </trans-unit>
+        <trans-unit id="Query 1232026921 - Method 1336600528 - NamedType 3447208650" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the query OnBeforeOpen trigger.</source>
+          <target>Це мітка в тригері OnBeforeOpen запиту.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query TRE Check Query - Method OnBeforeOpen - NamedType LabelInQueryBeforeOpen</note>
+        </trans-unit>
+        <trans-unit id="Query 1232026921 - QueryFilter 810109192 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No. Filter</source>
+          <target>Фільтр за номером товару</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query TRE Check Query - QueryFilter ItemNoFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1232026921 - QueryColumn 332802016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the item number field in the sales line data item.</source>
+          <target>Це поле номера товару в елементі даних рядка продажу.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query TRE Check Query - QueryColumn ItemNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Query 1232026921 - QueryColumn 332802016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Number</source>
+          <target>Номер товару</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query TRE Check Query - QueryColumn ItemNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1232026921 - QueryColumn 2272340397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the number field in the integer data item.</source>
+          <target>Це поле числа в елементі даних цілого числа.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query TRE Check Query - QueryColumn Number - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Query 1232026921 - QueryColumn 2272340397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Integer Number</source>
+          <target>Ціле число</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query TRE Check Query - QueryColumn Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check XMLPort caption</source>
+          <target>Перевірити заголовок XMLPort</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - NamedType 4288599919" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the variables section.</source>
+          <target>Це мітка в розділі змінних.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - NamedType LabelInVarSection</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Method 2329571004 - NamedType 3035757611" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in a local procedure.</source>
+          <target>Це мітка в локальній процедурі.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Method LocalProcedureExample - NamedType LabelInLocalProcedure</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Method 3956036725 - NamedType 4049024469" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the OnInitXmlPort trigger.</source>
+          <target>Це мітка в тригері OnInitXmlPort.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Method OnInitXmlPort - NamedType LabelInInit</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Method 1908907723 - NamedType 56340827" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the OnPostXmlPort trigger.</source>
+          <target>Це мітка в тригері OnPostXmlPort.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Method OnPostXmlPort - NamedType LabelInPost</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Method 24927850 - NamedType 2984973730" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the OnPreXmlPort trigger.</source>
+          <target>Це мітка в тригері OnPreXmlPort.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Method OnPreXmlPort - NamedType LabelInPre</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - RequestPage 2516438534 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XMLPort Request Page Title</source>
+          <target>Заголовок сторінки запиту XMLPort</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - RequestPage RequestOptionsPage - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - RequestPage 2516438534 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is Instructional Text on the XMLPort Request Page.</source>
+          <target>Це інструктивний текст на сторінці запиту XMLPort.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - RequestPage RequestOptionsPage - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - RequestPage 2516438534 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is About XMLPort in the Request Page.</source>
+          <target>Це про XMLPort на сторінці запиту.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - RequestPage RequestOptionsPage - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - RequestPage 2516438534 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XMLPort Request Page</source>
+          <target>Сторінка запиту XMLPort</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - RequestPage RequestOptionsPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - RequestPage 2516438534 - NamedType 1379285705" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the protected variables section of Request Page.</source>
+          <target>Це мітка в розділі захищених змінних сторінки запиту.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - RequestPage RequestOptionsPage - NamedType LabelInProtectedVarSection</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - RequestPage 2516438534 - NamedType 534256689" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the variables section of the Request Page.</source>
+          <target>Це мітка в розділі змінних сторінки запиту.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - RequestPage RequestOptionsPage - NamedType LabelInRequestPageVarSection</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Control 4105281732 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group Title</source>
+          <target>Заголовок групи</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Control GroupName - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Control 4105281732 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is Instructional Text for the group.</source>
+          <target>Це інструктивний текст для групи.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Control GroupName - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Control 4105281732 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is About text for the group.</source>
+          <target>Це про групу.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Control GroupName - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group Caption</source>
+          <target>Підпис групи</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Control 166597695 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Root Node Name Field Title</source>
+          <target>Заголовок поля кореневого вузла</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Control FieldName - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Control 166597695 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a tooltip for the Root Node Name field.</source>
+          <target>Це підказка для поля кореневого вузла.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Control FieldName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Control 166597695 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is Instructional Text for the Root Node Name field.</source>
+          <target>Це інструктивний текст для поля кореневого вузла.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Control FieldName - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Control 166597695 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is About text for the Root Node Name field.</source>
+          <target>Це про поле кореневого вузла.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Control FieldName - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Control 166597695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Root Node Name</source>
+          <target>Назва кореневого вузла</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Control FieldName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Control 166597695 - Method 2126772001 - NamedType 546585477" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the field.</source>
+          <target>Це мітка в полі.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Control FieldName - Method OnValidate - NamedType LabelInField</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Control 982202860 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field 7 Title</source>
+          <target>Заголовок поля 7</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Control TRECheckTable."Field ""7""" - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Control 982202860 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a tooltip for Field 7.</source>
+          <target>Це підказка для поля 7.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Control TRECheckTable."Field ""7""" - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Control 982202860 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is Instructional Text for Field 7.</source>
+          <target>Це інструктивний текст для поля 7.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Control TRECheckTable."Field ""7""" - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Control 982202860 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is About text for Field 7.</source>
+          <target>Це про поле 7.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Control TRECheckTable."Field ""7""" - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Control 982202860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>How do you like the name of the control?</source>
+          <target>Як вам подобається назва елемента керування?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Control TRECheckTable."Field ""7""" - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Control 982202860 - Method 236405353 - NamedType 546585477" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in Field 7.</source>
+          <target>Це мітка в полі 7.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Control TRECheckTable."Field ""7""" - Method OnAfterLookup - NamedType LabelInField</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Action 3527587360 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Another Action Title</source>
+          <target>Інша назва дії</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Action Action2 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Action 3527587360 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a tooltip for another action.</source>
+          <target>Це підказка для іншої дії.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Action Action2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Action 3527587360 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is About text for another action.</source>
+          <target>Це про іншу дію.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Action Action2 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Action 3527587360 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Another Action</source>
+          <target>Інша дія</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Action Action2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Action 3527587360 - Method 1377591017 - NamedType 2444974753" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in another action.</source>
+          <target>Це мітка в іншій дії.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Action Action2 - Method OnAction - NamedType LabelInAction</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Action 4213832383 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Actions Group Title</source>
+          <target>Заголовок групи дій</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Action ActionsGroupName - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Action 4213832383 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a tooltip for the actions group.</source>
+          <target>Це підказка для групи дій.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Action ActionsGroupName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Action 4213832383 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is About text for the actions group.</source>
+          <target>Це про групу дій.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Action ActionsGroupName - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Action 4213832383 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Actions Group</source>
+          <target>Група дій</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Action ActionsGroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Action 4165283977 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run XMLPort Action Title</source>
+          <target>Запустити дію XMLPort</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Action Action1 - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Action 4165283977 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a tooltip for the Run XMLPort action.</source>
+          <target>Це підказка для запуску дії XMLPort.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Action Action1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Action 4165283977 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is About text for the Run XMLPort action.</source>
+          <target>Це про запуск дії XMLPort.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Action Action1 - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Action 4165283977 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run XMLPort</source>
+          <target>Запустити XMLPort</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Action Action1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - Action 4165283977 - Method 1377591017 - NamedType 2444974753" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the action.</source>
+          <target>Це мітка в дії.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - Action Action1 - Method OnAction - NamedType LabelInAction</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - XmlPortNode 3453246779 - Method 1633929414 - NamedType 1495287505" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the text element OnAfterAssignVariable.</source>
+          <target>Це мітка в текстовому елементі OnAfterAssignVariable.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - XmlPortNode RootNodeName - Method OnAfterAssignVariable - NamedType LabelInTextElementAfterAssign</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - XmlPortNode 3453246779 - Method 828199545 - NamedType 3846726918" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the text element OnBeforePassVariable.</source>
+          <target>Це мітка в текстовому елементі OnBeforePassVariable.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - XmlPortNode RootNodeName - Method OnBeforePassVariable - NamedType LabelInTextElementBeforePass</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - XmlPortNode 2977013485 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Table Filters</source>
+          <target>Перевірити фільтри таблиці</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - XmlPortNode TRECheckTable - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - XmlPortNode 2977013485 - Method 3245603402 - NamedType 2463300283" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the table element OnAfterGetRecord.</source>
+          <target>Це мітка в елементі таблиці OnAfterGetRecord.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - XmlPortNode TRECheckTable - Method OnAfterGetRecord - NamedType LabelInTableElement</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - XmlPortNode 2977013485 - Method 1151519454 - NamedType 4100839797" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the table element OnAfterInitRecord.</source>
+          <target>Це мітка в елементі таблиці OnAfterInitRecord.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - XmlPortNode TRECheckTable - Method OnAfterInitRecord - NamedType LabelInTableElementInit</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - XmlPortNode 2977013485 - Method 1114709337 - NamedType 1709161874" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the table element OnAfterInsertRecord.</source>
+          <target>Це мітка в елементі таблиці OnAfterInsertRecord.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - XmlPortNode TRECheckTable - Method OnAfterInsertRecord - NamedType LabelInTableElementInsert</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - XmlPortNode 2977013485 - Method 2157040236 - NamedType 4240593667" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the table element OnAfterModifyRecord.</source>
+          <target>Це мітка в елементі таблиці OnAfterModifyRecord.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - XmlPortNode TRECheckTable - Method OnAfterModifyRecord - NamedType LabelInTableElementModify</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - XmlPortNode 2977013485 - Method 192879926 - NamedType 588911857" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the table element OnBeforeInsertRecord.</source>
+          <target>Це мітка в елементі таблиці OnBeforeInsertRecord.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - XmlPortNode TRECheckTable - Method OnBeforeInsertRecord - NamedType LabelInTableElementBeforeInsert</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - XmlPortNode 2977013485 - Method 2152788543 - NamedType 3561814852" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the table element OnBeforeModifyRecord.</source>
+          <target>Це мітка в елементі таблиці OnBeforeModifyRecord.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - XmlPortNode TRECheckTable - Method OnBeforeModifyRecord - NamedType LabelInTableElementBeforeModify</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - XmlPortNode 2977013485 - Method 1183908326 - NamedType 1918272734" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the table element OnPreXmlItem.</source>
+          <target>Це мітка в елементі таблиці OnPreXmlItem.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - XmlPortNode TRECheckTable - Method OnPreXmlItem - NamedType LabelInTableElementPreXmlItem</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - XmlPortNode 589089365 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Line Filters</source>
+          <target>Фільтри рядків продажу</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - XmlPortNode TRECheckLine - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1384424591 - XmlPortNode 589089365 - Method 1151519454 - NamedType 4100839797" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a label in the table element OnAfterInitRecord.</source>
+          <target>Це мітка в елементі таблиці OnAfterInitRecord.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - XmlPortNode TRECheckLine - Method OnAfterInitRecord - NamedType LabelInTableElementInit</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - NamedType 1377898059" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>%1|%2</source>
           <target>%1|%2</target>
           <note from="Developer" annotates="general" priority="2">%1 value 1, %2 value 2</note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType GlobalFilterLabel</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType NewGlobalFilterLabel</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - NamedType 2722655382" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - NamedType 1229385738" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>%1|%2</source>
           <target>%1|%2</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType GlobalFilterLabelNoDescription</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType NewGlobalFilterLabelNoDescription</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - NamedType 1626783127" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - NamedType 1120293491" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Global Label</source>
           <target>Глобальна мітка</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType GlobalLabel</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType NewGlobalLabel</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - NamedType 1279326937" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - NamedType 557546517" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Global %1 Label</source>
           <target>Глобальна %1 мітка</target>
           <note from="Developer" annotates="general" priority="2">Label with placeholders, %1 will be replaced with dynamic content.</note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType GlobalLabelWithPlaceholders</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType NewGlobalLabelWithPlaceholders</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - NamedType 1248048044" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - NamedType 723076352" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Global %1 Label</source>
           <target>Глобальна %1 мітка</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType GlobalLabelWithPlaceholdersNoDescription</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType NewGlobalLabelWithPlaceholdersNoDescription</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - NamedType 1800211905" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - NamedType 1363454317" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>%1|%2</source>
           <target>%1|%2</target>
           <note from="Developer" annotates="general" priority="2">%1 value 1, %2 value 2</note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType ProtectedGlobalFilterLabel</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType NewProtectedGlobalFilterLabel</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - NamedType 3724209876" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - NamedType 838267160" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>%1|%2</source>
           <target>%1|%2</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType ProtectedGlobalFilterLabelNoDescription</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType NewProtectedGlobalFilterLabelNoDescription</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - NamedType 3269691305" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - NamedType 1322560341" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Protected Global Label</source>
           <target>Захищена глобальна мітка</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType ProtectedGlobalLabel</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType NewProtectedGlobalLabel</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - NamedType 1671494439" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - NamedType 2582976403" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Protected Global %1 Label</source>
           <target>Захищена глобальна %1 мітка</target>
           <note from="Developer" annotates="general" priority="2">Label with placeholders, %1 will be replaced with dynamic content.</note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType ProtectedGlobalLabelWithPlaceholders</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType NewProtectedGlobalLabelWithPlaceholders</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - NamedType 2798505422" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - NamedType 1327150098" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Protected Global %1 Label</source>
           <target>Захищена глобальна %1 мітка</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType ProtectedGlobalLabelWithPlaceholdersNoDescription</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType NewProtectedGlobalLabelWithPlaceholdersNoDescription</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 1342290227 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Method 1063795439 - NamedType 1043991473" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Local Label</source>
           <target>Локальна мітка</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method GlobalFunction - NamedType LocalLabel</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method InternalFunction - NamedType NewLocalLabel</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 1342290227 - NamedType 2391436219" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Method 2118421345 - NamedType 1043991473" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>Local Label</source>
+          <target>Локальна мітка</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method LocalFunction - NamedType NewLocalLabel</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Method 2118421345 - NamedType 508134191" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Local %1 Label</source>
           <target>Локальна %1 мітка</target>
           <note from="Developer" annotates="general" priority="2">Label with placeholders, %1 will be replaced with dynamic content.</note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method GlobalFunction - NamedType LocalLabelWithPlaceholders</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method LocalFunction - NamedType NewLocalLabelWithPlaceholders</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 1342290227 - NamedType 2624476730" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Method 2118421345 - NamedType 3413322262" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Local %1 Label</source>
           <target>Локальна %1 мітка</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method GlobalFunction - NamedType LocalLabelWithPlaceholdersNoDescription</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method LocalFunction - NamedType NewLocalLabelWithPlaceholdersNoDescription</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 1342290227 - NamedType 2293028448" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Method 2118421345 - NamedType 3139514908" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>%1|%2</source>
           <target>%1|%2</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method GlobalFunction - NamedType LocalFilterLabelNoDescription</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method LocalFunction - NamedType NewLocalFilterLabelNoDescription</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 1342290227 - NamedType 3464250933" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Method 2118421345 - NamedType 2689465609" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>%1|%2</source>
           <target>%1|%2</target>
           <note from="Developer" annotates="general" priority="2">%1 value 1, %2 value 2</note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method GlobalFunction - NamedType LocalFilterLabel</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method LocalFunction - NamedType NewLocalFilterLabel</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 1063795439 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Method 4066782983 - NamedType 1043991473" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Local Label</source>
           <target>Локальна мітка</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method InternalFunction - NamedType LocalLabel</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method NewGlobalFunction - NamedType NewLocalLabel</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 2118421345 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
-          <source>Local Label</source>
-          <target>Локальна мітка</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method LocalFunction - NamedType LocalLabel</note>
-        </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 2118421345 - NamedType 2391436219" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Method 4066782983 - NamedType 508134191" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Local %1 Label</source>
           <target>Локальна %1 мітка</target>
           <note from="Developer" annotates="general" priority="2">Label with placeholders, %1 will be replaced with dynamic content.</note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method LocalFunction - NamedType LocalLabelWithPlaceholders</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method NewGlobalFunction - NamedType NewLocalLabelWithPlaceholders</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 2118421345 - NamedType 2624476730" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Method 4066782983 - NamedType 3413322262" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Local %1 Label</source>
           <target>Локальна %1 мітка</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method LocalFunction - NamedType LocalLabelWithPlaceholdersNoDescription</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method NewGlobalFunction - NamedType NewLocalLabelWithPlaceholdersNoDescription</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 2118421345 - NamedType 2293028448" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Method 4066782983 - NamedType 3139514908" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>%1|%2</source>
           <target>%1|%2</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method LocalFunction - NamedType LocalFilterLabelNoDescription</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method NewGlobalFunction - NamedType NewLocalFilterLabelNoDescription</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 2118421345 - NamedType 3464250933" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Method 4066782983 - NamedType 2689465609" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>%1|%2</source>
           <target>%1|%2</target>
           <note from="Developer" annotates="general" priority="2">%1 value 1, %2 value 2</note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method LocalFunction - NamedType LocalFilterLabel</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method NewGlobalFunction - NamedType NewLocalFilterLabel</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 766098792 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Method 766098792 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Local Label in %1 OnAfterDelete</source>
           <target>Локальна мітка в тригері %1 OnAfterDelete</target>
           <note from="Developer" annotates="general" priority="2">Local %1 label</note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method OnAfterDelete - NamedType LocalLabel</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 169486127 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Method 169486127 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Local Label in %1 OnAfterRename</source>
           <target>Локальна мітка в тригері %1 OnAfterRename</target>
           <note from="Developer" annotates="general" priority="2">Local %1 label</note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method OnAfterRename - NamedType LocalLabel</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 371220819 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Method 371220819 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Local Label in %1 OnBeforeDelete</source>
           <target>Локальна мітка в тригері %1 OnBeforeDelete</target>
           <note from="Developer" annotates="general" priority="2">Local label %1</note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method OnBeforeDelete - NamedType LocalLabel</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 455874617 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Method 455874617 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Local Label in OnBeforeInsert</source>
           <target>Локальна мітка в тригері OnBeforeInsert</target>
           <note from="Developer" annotates="general" priority="2">Local label</note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method OnBeforeInsert - NamedType LocalLabel</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 868568844 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Method 868568844 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Local Label in OnBeforeModify</source>
           <target>Локальна мітка в тригері OnBeforeModify</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method OnBeforeModify - NamedType LocalLabel</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 664725388 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Method 664725388 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Local Label in %1 OnBeforeRename</source>
           <target>Локальна мітка в %1 тригері OnBeforeRename</target>
           <note from="Developer" annotates="general" priority="2">Local label %1</note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method OnBeforeRename - NamedType LocalLabel</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 3152277940 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Method 3152277940 - NamedType 1043991473" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Local Label in %1 OnDelete</source>
           <target>Локальна мітка в %1 тригері OnDelete</target>
           <note from="Developer" annotates="general" priority="2">Local label %1</note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method OnDelete - NamedType LocalLabel</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method OnDelete - NamedType NewLocalLabel</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 2451657066 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Method 2451657066 - NamedType 1043991473" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Local Label in OnInsert</source>
           <target>Локальна мітка в тригері OnInsert</target>
           <note from="Developer" annotates="general" priority="2">Local label</note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method OnInsert - NamedType LocalLabel</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method OnInsert - NamedType NewLocalLabel</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 1262666395 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Method 1262666395 - NamedType 1043991473" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Local Label in OnModify</source>
           <target>Локальна мітка в тригері OnModify</target>
           <note from="Developer" annotates="general" priority="2">Local label</note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method OnModify - NamedType LocalLabel</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method OnModify - NamedType NewLocalLabel</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Method 804474859 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Method 804474859 - NamedType 1043991473" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Local Label in %1 OnRename</source>
           <target>Локальна мітка в %1 тригері OnRename</target>
           <note from="Developer" annotates="general" priority="2">Local label %1</note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method OnRename - NamedType LocalLabel</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method OnRename - NamedType NewLocalLabel</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Field 2255031092 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
-          <source>This is field 1.</source>
-          <target>Це поле 1.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
+        <trans-unit id="Table 3557637949 - Field 2255031092 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3557637949">
+          <source>This is field %1 - 1.</source>
+          <target>Це поле %1 - 1.</target>
+          <note from="Developer" annotates="general" priority="2">%1 non-used placeholder|uk-UA=Це поле %1 - 1.</note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Field TRE Field 1 - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Field 2255031092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+        <trans-unit id="Table 3557637949 - Field 2255031092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3557637949">
           <source>Field 1</source>
           <target>Поле 1</target>
           <note from="Developer" annotates="general" priority="2">uk-UA=Поле 1</note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Field TRE Field 1 - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Field 2255031092 - Method 1213635141 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Field 2255031092 - Method 1213635141 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Local Label in OnLookup</source>
           <target>Локальна мітка в OnLookup</target>
           <note from="Developer" annotates="general" priority="2">Local label used in OnLookup trigger</note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Field TRE Field 1 - Method OnLookup - NamedType LocalLabel</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Field 2255031092 - Method 2126772001 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+        <trans-unit id="Table 3557637949 - Field 2255031092 - Method 2126772001 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>Local Label in OnValidate</source>
           <target>Локальна мітка в OnValidate</target>
           <note from="Developer" annotates="general" priority="2">Local label used in OnValidate trigger</note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Field TRE Field 1 - Method OnValidate - NamedType LocalLabel</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Field 2892727709 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+        <trans-unit id="Table 3557637949 - Field 2892727709 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3557637949">
           <source>This is field 2.</source>
           <target>Це поле 2.</target>
           <note from="Developer" annotates="general" priority="2">Very rare case adding comments to field tooltips.</note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Field TRE Field 2 - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Field 2892727709 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+        <trans-unit id="Table 3557637949 - Field 2892727709 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3557637949">
           <source>Field 2</source>
           <target>Поле 2</target>
           <note from="Developer" annotates="general" priority="2">Very rare case adding comments to fields captions.</note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Field TRE Field 2 - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Field 3530424326 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+        <trans-unit id="Table 3557637949 - Field 3530424326 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3557637949">
           <source>Field 3</source>
           <target>Поле 3</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Field TRE Field 3 - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1987142438 - Field 3361515303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+        <trans-unit id="Table 3557637949 - Field 3361515303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3557637949">
           <source>TRE Field 4</source>
           <target>Поле 4</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Field TRE Field 4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2400265855 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>New Caption for Sales Line</source>
+          <target>Новий заголовок для рядка продажу</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Sales Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2400265855 - Field 28273561 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>This is the new options field.</source>
+          <target>Це нове поле параметрів.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Sales Line - Field TRE New Options - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2400265855 - Field 28273561 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>New Options</source>
+          <target>Нові параметри</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Sales Line - Field TRE New Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2400265855 - Field 28273561 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>One,Two,Three</source>
+          <target>Один,Два,Три</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Sales Line - Field TRE New Options - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2400265855 - Field 28273561 - Method 1213635141 - NamedType 2467755507" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 2400265855">
+          <source>This is a label in the field OnLookup trigger.</source>
+          <target>Це мітка в тригері OnLookup поля.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Sales Line - Field TRE New Options - Method OnLookup - NamedType LabelInFieldLookup</note>
+        </trans-unit>
+        <trans-unit id="Profile 1211768650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profile Display Name</source>
+          <target>Відображуване ім'я профілю</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile TRE Check Profile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 1211768650 - Property 4111922599" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Some Profile Description</source>
+          <target>Деякий опис профілю</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile TRE Check Profile - Property ProfileDescription</note>
+        </trans-unit>
+        <trans-unit id="PageCustomization 479897525 - Control 2363328873 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Document Type</source>
+          <target>Тип документа</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageCustomization TRE Check Page Customization - Control Document Type - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="PageCustomization 479897525 - Control 2363328873 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>The type of the sales order document.</source>
+          <target>Тип документа замовлення на продаж.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageCustomization TRE Check Page Customization - Control Document Type - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="PageCustomization 479897525 - Control 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Document Type</source>
+          <target>Тип документа</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageCustomization TRE Check Page Customization - Control Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageCustomization 479897525 - Change 4200184881 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Sales Order Number</source>
+          <target>Номер замовлення на продаж</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageCustomization TRE Check Page Customization - Change No. - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="PageCustomization 479897525 - Change 4200184881 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>The unique identifier for the sales order.</source>
+          <target>Унікальний ідентифікатор замовлення на продаж.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageCustomization TRE Check Page Customization - Change No. - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="PageCustomization 479897525 - Change 2282416948 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Post Sales Order</source>
+          <target>Опублікувати замовлення на продаж</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageCustomization TRE Check Page Customization - Change Post - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="PageCustomization 479897525 - Change 2282416948 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Post the sales order to the general ledger.</source>
+          <target>Опублікувати замовлення на продаж до головної книги.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageCustomization TRE Check Page Customization - Change Post - Property AboutText</note>
         </trans-unit>
         <trans-unit id="Enum 3752150738 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Usually nobody uses caption on Enums, but we should be able to handle it as well.</source>
@@ -944,6 +2264,144 @@
           <target>Розширення переліку значення 6 із заповнювачем %1</target>
           <note from="Developer" annotates="general" priority="2">Some comment about %1 placeholder</note>
           <note from="Xliff Generator" annotates="general" priority="3">EnumExtension TRE Check Enum Extension - EnumValue EnumExtension Value 6 with placeholder %1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="ProfileExtension 3677350161 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Profile 238153761">
+          <source>Check Profile Extension</source>
+          <target>Перевірити розширення профілю</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ProfileExtension TRE Check Profile Extension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="ProfileExtension 3677350161 - Property 4111922599" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Profile 238153761">
+          <source>This profile extension adds additional permissions for checking page customizations.</source>
+          <target>Це розширення профілю додає додаткові дозволи для перевірки налаштувань сторінки.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ProfileExtension TRE Check Profile Extension - Property ProfileDescription</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 3547704567 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check PermSet</source>
+          <target>Перевірити набір дозволів</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet TRE Check PermSet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - NamedType 1379285705" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 3041432534">
+          <source>This is a label in the protected variables section of the report extension.</source>
+          <target>Це мітка в розділі захищених змінних розширення звіту.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - NamedType LabelInProtectedVarSection</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - NamedType 4288599919" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 3041432534">
+          <source>This is a label in the variables section of the report extension.</source>
+          <target>Це мітка в розділі змінних розширення звіту.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - NamedType LabelInVarSection</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - Method 2736589801 - NamedType 343539249" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 3041432534">
+          <source>This is a label in the OnPostReport trigger of the report extension.</source>
+          <target>Це мітка в тригері OnPostReport розширення звіту.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - Method OnPostReport - NamedType LabelInPostReport</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - Method 863527680 - NamedType 3743185336" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 3041432534">
+          <source>This is a label in the OnPreRendering trigger of the report extension.</source>
+          <target>Це мітка в тригері OnPreRendering розширення звіту.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - Method OnPreRendering - NamedType LabelInPreRendering</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - Method 1544076788 - NamedType 379303340" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 3041432534">
+          <source>This is a label in the OnPreReport trigger of the report extension.</source>
+          <target>Це мітка в тригері OnPreReport розширення звіту.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - Method OnPreReport - NamedType LabelInPreReport</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - ReportDataItem 2294081203 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 3789754263">
+          <source>New DataItem Filters</source>
+          <target>Нові фільтри елемента даних</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - ReportDataItem NewDataItem - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - ReportColumn 4240186949 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 3789754263">
+          <source>This is the new options column in the new dataitem.</source>
+          <target>Це новий стовпець параметрів у новому елементі даних.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - ReportColumn TRENewColumn2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - ReportColumn 4240186949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 3789754263">
+          <source>New Options Caption</source>
+          <target>Новий заголовок параметрів</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - ReportColumn TRENewColumn2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - ReportColumn 4240186949 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 3789754263">
+          <source>One-1,Two-2,Three-3</source>
+          <target>Один-1,Два-2,Три-3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - ReportColumn TRENewColumn2 - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - ReportColumn 1796810595 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 3789754263">
+          <source>This is the new options column.</source>
+          <target>Це новий стовпець параметрів.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - ReportColumn TRENewColumn - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - ReportColumn 1796810595 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 3789754263">
+          <source>New Options Caption</source>
+          <target>Новий заголовок параметрів</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - ReportColumn TRENewColumn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - ReportColumn 1796810595 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 3789754263">
+          <source>One-1,Two-2,Three-3</source>
+          <target>Один-1,Два-2,Три-3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - ReportColumn TRENewColumn - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - Change 1936001480 - Method 3668188198 - NamedType 1338480544" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 3041432534">
+          <source>This is a label in the dataset OnAfterAfterGetRecord trigger.</source>
+          <target>Це мітка в тригері OnAfterAfterGetRecord набору даних.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - Change Vendor - Method OnAfterAfterGetRecord - NamedType LabelInDataItem</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - Change 1936001480 - Method 3864637892 - NamedType 1338480544" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 3041432534">
+          <source>This is a label in the dataset OnAfterPostDataItem trigger.</source>
+          <target>Це мітка в тригері OnAfterPostDataItem набору даних.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - Change Vendor - Method OnAfterPostDataItem - NamedType LabelInDataItem</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - Change 1936001480 - Method 1724123433 - NamedType 1338480544" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 3041432534">
+          <source>This is a label in the dataset OnAfterPreDataItem trigger.</source>
+          <target>Це мітка в тригері OnAfterPreDataItem набору даних.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - Change Vendor - Method OnAfterPreDataItem - NamedType LabelInDataItem</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - Change 1936001480 - Method 2037779625 - NamedType 1338480544" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 3041432534">
+          <source>This is a label in the dataset OnBeforeAfterGetRecord trigger.</source>
+          <target>Це мітка в тригері OnBeforeAfterGetRecord набору даних.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - Change Vendor - Method OnBeforeAfterGetRecord - NamedType LabelInDataItem</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - Change 1936001480 - Method 3908258151 - NamedType 1338480544" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 3041432534">
+          <source>This is a label in the dataset OnBeforePostDataItem trigger.</source>
+          <target>Це мітка в тригері OnBeforePostDataItem набору даних.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - Change Vendor - Method OnBeforePostDataItem - NamedType LabelInDataItem</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - Change 1936001480 - Method 4124349006 - NamedType 1338480544" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 3041432534">
+          <source>This is a label in the dataset OnBeforePreDataItem trigger.</source>
+          <target>Це мітка в тригері OnBeforePreDataItem набору даних.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - Change Vendor - Method OnBeforePreDataItem - NamedType LabelInDataItem</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - ReportLayout 2313414932 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 3789754263">
+          <source>This is the summary of the rendering report extension layout.</source>
+          <target>Це підсумок макета розширення звіту.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - ReportLayout RenderingLayout - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - ReportLayout 2313414932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 3789754263">
+          <source>Check Report Ext Layout</source>
+          <target>Перевірити макет розширення звіту</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - ReportLayout RenderingLayout - Property Caption</note>
         </trans-unit>
       </group>
     </body>
