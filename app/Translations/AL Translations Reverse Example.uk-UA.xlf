@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="uk-UA" original="AL Translations Reverse Example.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3557637949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Table</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - NamedType 3485954479" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1|%2</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">%1 value 1, %2 value 2</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - NamedType GlobalFilterLabel</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - NamedType 2722655382" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1|%2</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - NamedType GlobalFilterLabelNoDescription</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - NamedType 1626783127" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Label</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - NamedType GlobalLabel</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - NamedType 1279326937" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global %1 Label</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">Label with placeholders, %1 will be replaced with dynamic content.</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - NamedType GlobalLabelWithPlaceholders</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - NamedType 1248048044" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global %1 Label</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - NamedType GlobalLabelWithPlaceholdersNoDescription</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - NamedType 1800211905" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1|%2</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">%1 value 1, %2 value 2</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - NamedType ProtectedGlobalFilterLabel</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - NamedType 3724209876" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1|%2</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - NamedType ProtectedGlobalFilterLabelNoDescription</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - NamedType 3269691305" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Protected Global Label</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - NamedType ProtectedGlobalLabel</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - NamedType 1671494439" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Protected Global %1 Label</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">Label with placeholders, %1 will be replaced with dynamic content.</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - NamedType ProtectedGlobalLabelWithPlaceholders</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - NamedType 2798505422" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Protected Global %1 Label</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - NamedType ProtectedGlobalLabelWithPlaceholdersNoDescription</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Method 1342290227 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Label</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Method GlobalFunction - NamedType LocalLabel</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Method 1342290227 - NamedType 2391436219" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local %1 Label</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">Label with placeholders, %1 will be replaced with dynamic content.</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Method GlobalFunction - NamedType LocalLabelWithPlaceholders</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Method 1342290227 - NamedType 2624476730" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local %1 Label</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Method GlobalFunction - NamedType LocalLabelWithPlaceholdersNoDescription</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Method 1342290227 - NamedType 2293028448" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1|%2</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Method GlobalFunction - NamedType LocalFilterLabelNoDescription</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Method 1342290227 - NamedType 3464250933" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1|%2</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">%1 value 1, %2 value 2</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Method GlobalFunction - NamedType LocalFilterLabel</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Method 1063795439 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Label</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Method InternalFunction - NamedType LocalLabel</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Method 1063795439 - NamedType 2391436219" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local %1 Label</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">Label with placeholders, %1 will be replaced with dynamic content.</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Method InternalFunction - NamedType LocalLabelWithPlaceholders</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Method 1063795439 - NamedType 2624476730" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local %1 Label</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Method InternalFunction - NamedType LocalLabelWithPlaceholdersNoDescription</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Method 1063795439 - NamedType 2293028448" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1|%2</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Method InternalFunction - NamedType LocalFilterLabelNoDescription</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Method 1063795439 - NamedType 3464250933" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1|%2</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">%1 value 1, %2 value 2</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Method InternalFunction - NamedType LocalFilterLabel</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Method 2118421345 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Label</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Method LocalFunction - NamedType LocalLabel</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Method 2118421345 - NamedType 2391436219" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local %1 Label</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">Label with placeholders, %1 will be replaced with dynamic content.</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Method LocalFunction - NamedType LocalLabelWithPlaceholders</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Method 2118421345 - NamedType 2624476730" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local %1 Label</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Method LocalFunction - NamedType LocalLabelWithPlaceholdersNoDescription</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Method 2118421345 - NamedType 2293028448" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1|%2</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Method LocalFunction - NamedType LocalFilterLabelNoDescription</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Method 2118421345 - NamedType 3464250933" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1|%2</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">%1 value 1, %2 value 2</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Method LocalFunction - NamedType LocalFilterLabel</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Field 2256973727 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is 'field' 2.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field Field "7" - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Field 2256973727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field "7"</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field Field "7" - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Field 157186525 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is field 1.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field Field 1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Field 157186525 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field 1</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field Field 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Field 3814457204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is field 2.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2">Very rare case adding comments to field tooltips.</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field Field 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Field 3814457204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field 2</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2">Very rare case adding comments to fields captions.</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field Field 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Field 3176760587 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field 3</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field Field 3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Field 2539063970 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field 4</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field Field 4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Field 428084024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field6</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field Field6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Field 1663593181 - Method 1213635141 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Label in OnLookup Trigger</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2">Label used in OnLookup trigger of Primary Key field.</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field Primary Key - Method OnLookup - NamedType LocalLabel</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Field 1663593181 - Method 2126772001 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Label in OnValidate Trigger</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2">Label used in OnValidate trigger of Primary Key field.</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field Primary Key - Method OnValidate - NamedType LocalLabel</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - NamedType 2800131209" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1|%2|%3</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">%1 filter1, %2 filter2, %3 filter3</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - NamedType myGlobalFilter</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - NamedType 440233372" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1|%2|%3</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - NamedType myGlobalFilterNoDescription</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - NamedType 2278351075" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Label in Check Codeunit</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - NamedType myGlobalLabel</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - NamedType 1026149174" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global %1 Label %2 in %3 Check %4 Codeunit</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">%1 ph1, %2 ph2, %3 ph3, %4 ph4</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - NamedType myGlobalLabelWithDescribedPlaceholders</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - NamedType 31892197" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global %1 Label %2 in %3 Check %4 Codeunit</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - NamedType myGlobalLabelWithPlaceholders</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - Method 491658766 - NamedType 166316129" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Label in CalledGlobalFunction</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledGlobalFunction - NamedType myLocalLabel</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - Method 491658766 - NamedType 3673043936" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local %1 Label %2 in %3 CalledGlobalFunction</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">%1 ph1, %2 ph2, %3 ph3</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledGlobalFunction - NamedType myLocalLabelWithDescribedPlaceholders</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - Method 491658766 - NamedType 234279935" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local %1 Label %2 in %3 CalledGlobalFunction</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledGlobalFunction - NamedType myLocalLabelWithPlaceholders</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - Method 491658766 - NamedType 1569809691" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1|%2|%3</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">%1 filter1, %2 filter2, %3 filter3</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledGlobalFunction - NamedType myLocalFilter</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - Method 491658766 - NamedType 353004890" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1|%2|%3</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledGlobalFunction - NamedType myLocalFilterNoDescription</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - Method 3508737866 - NamedType 166316129" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Label in CalledInternalFunction</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledInternalFunction - NamedType myLocalLabel</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - Method 3508737866 - NamedType 3673043936" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local %1 Label %2 in %3 CalledInternalFunction</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">%1 ph1, %2 ph2, %3 ph3</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledInternalFunction - NamedType myLocalLabelWithDescribedPlaceholders</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - Method 3508737866 - NamedType 234279935" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local %1 Label %2 in %3 CalledInternalFunction</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledInternalFunction - NamedType myLocalLabelWithPlaceholders</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - Method 3508737866 - NamedType 1569809691" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1|%2|%3</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">%1 filter1, %2 filter2, %3 filter3</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledInternalFunction - NamedType myLocalFilter</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - Method 3508737866 - NamedType 353004890" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1|%2|%3</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledInternalFunction - NamedType myLocalFilterNoDescription</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - Method 1189133520 - NamedType 166316129" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Label in CalledLocalFunction</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledLocalFunction - NamedType myLocalLabel</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - Method 1189133520 - NamedType 3673043936" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local %1 Label %2 in %3 CalledLocalFunction</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">%1 ph1, %2 ph2, %3 ph3</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledLocalFunction - NamedType myLocalLabelWithDescribedPlaceholders</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - Method 1189133520 - NamedType 234279935" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local %1 Label %2 in %3 CalledLocalFunction</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledLocalFunction - NamedType myLocalLabelWithPlaceholders</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - Method 1189133520 - NamedType 1569809691" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1|%2|%3</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">%1 filter1, %2 filter2, %3 filter3</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledLocalFunction - NamedType myLocalFilter</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - Method 1189133520 - NamedType 353004890" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1|%2|%3</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledLocalFunction - NamedType myLocalFilterNoDescription</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Check Table Extension</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - NamedType 3485954479" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>%1|%2</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">%1 value 1, %2 value 2</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType GlobalFilterLabel</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - NamedType 2722655382" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>%1|%2</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType GlobalFilterLabelNoDescription</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - NamedType 1626783127" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>Global Label</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType GlobalLabel</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - NamedType 1279326937" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>Global %1 Label</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">Label with placeholders, %1 will be replaced with dynamic content.</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType GlobalLabelWithPlaceholders</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - NamedType 1248048044" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>Global %1 Label</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType GlobalLabelWithPlaceholdersNoDescription</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - NamedType 1800211905" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>%1|%2</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">%1 value 1, %2 value 2</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType ProtectedGlobalFilterLabel</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - NamedType 3724209876" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>%1|%2</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType ProtectedGlobalFilterLabelNoDescription</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - NamedType 3269691305" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>Protected Global Label</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType ProtectedGlobalLabel</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - NamedType 1671494439" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>Protected Global %1 Label</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">Label with placeholders, %1 will be replaced with dynamic content.</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType ProtectedGlobalLabelWithPlaceholders</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - NamedType 2798505422" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>Protected Global %1 Label</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - NamedType ProtectedGlobalLabelWithPlaceholdersNoDescription</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Method 1342290227 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>Local Label</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method GlobalFunction - NamedType LocalLabel</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Method 1342290227 - NamedType 2391436219" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>Local %1 Label</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">Label with placeholders, %1 will be replaced with dynamic content.</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method GlobalFunction - NamedType LocalLabelWithPlaceholders</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Method 1342290227 - NamedType 2624476730" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>Local %1 Label</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method GlobalFunction - NamedType LocalLabelWithPlaceholdersNoDescription</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Method 1342290227 - NamedType 2293028448" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>%1|%2</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method GlobalFunction - NamedType LocalFilterLabelNoDescription</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Method 1342290227 - NamedType 3464250933" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>%1|%2</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">%1 value 1, %2 value 2</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method GlobalFunction - NamedType LocalFilterLabel</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Method 1063795439 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>Local Label</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method InternalFunction - NamedType LocalLabel</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Method 1063795439 - NamedType 2391436219" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>Local %1 Label</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">Label with placeholders, %1 will be replaced with dynamic content.</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method InternalFunction - NamedType LocalLabelWithPlaceholders</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Method 1063795439 - NamedType 2624476730" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>Local %1 Label</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method InternalFunction - NamedType LocalLabelWithPlaceholdersNoDescription</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Method 1063795439 - NamedType 2293028448" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>%1|%2</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method InternalFunction - NamedType LocalFilterLabelNoDescription</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Method 1063795439 - NamedType 3464250933" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>%1|%2</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">%1 value 1, %2 value 2</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method InternalFunction - NamedType LocalFilterLabel</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Method 2118421345 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>Local Label</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method LocalFunction - NamedType LocalLabel</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Method 2118421345 - NamedType 2391436219" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>Local %1 Label</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">Label with placeholders, %1 will be replaced with dynamic content.</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method LocalFunction - NamedType LocalLabelWithPlaceholders</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Method 2118421345 - NamedType 2624476730" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>Local %1 Label</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method LocalFunction - NamedType LocalLabelWithPlaceholdersNoDescription</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Method 2118421345 - NamedType 2293028448" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>%1|%2</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method LocalFunction - NamedType LocalFilterLabelNoDescription</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Method 2118421345 - NamedType 3464250933" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>%1|%2</source>
+          <target state="needs-adaptation">[NAB: NOT TRANSLATED]</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Problem detected: The number of placeholders in the source and translation text do not match.</note>
+          <note from="Developer" annotates="general" priority="2">%1 value 1, %2 value 2</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Method LocalFunction - NamedType LocalFilterLabel</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Field 2255031092 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>This is field 1.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Field TRE Field 1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Field 2255031092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Field 1</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2">uk-UA=Поле 1</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Field TRE Field 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Field 2255031092 - Method 1213635141 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>Local Label in OnLookup</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2">Local label used in OnLookup trigger</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Field TRE Field 1 - Method OnLookup - NamedType LocalLabel</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Field 2255031092 - Method 2126772001 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
+          <source>Local Label in OnValidate</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2">Local label used in OnValidate trigger</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Field TRE Field 1 - Method OnValidate - NamedType LocalLabel</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Field 2892727709 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>This is field 2.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2">Very rare case adding comments to field tooltips.</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Field TRE Field 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Field 2892727709 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Field 2</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2">Very rare case adding comments to fields captions.</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Field TRE Field 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Field 3530424326 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Field 3</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Field TRE Field 3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1987142438 - Field 3361515303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>TRE Field 4</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Field TRE Field 4 - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
