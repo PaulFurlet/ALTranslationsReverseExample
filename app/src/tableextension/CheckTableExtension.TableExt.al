@@ -40,6 +40,99 @@ tableextension 50000 "TRE Check Table Extension" extends "Sales Line"
             DataClassification = CustomerContent;
         }
     }
+    trigger OnInsert()
+    var
+        LocalLabel
+        : Label 'Local Label in OnInsert', Comment = 'Local label';
+    begin
+
+    end;
+
+    trigger OnBeforeInsert()
+    var
+        LocalLabel: Label
+         'Local Label in OnBeforeInsert', Comment = 'Local label';
+    begin
+
+    end;
+
+    trigger OnAfterInsert()
+    var
+        LocalLabel: Label 'Local Label in OnAfterInsert', Locked = true,
+         Comment = 'Local label';
+    begin
+
+    end;
+
+    trigger OnModify()
+    var
+        LocalLabel: Label 'Local Label in OnModify'
+        , Comment = 'Local label';
+    begin
+
+    end;
+
+    trigger OnBeforeModify()
+    var
+        LocalLabel: Label 'Local Label in OnBeforeModify';
+    begin
+
+    end;
+
+    trigger OnAfterModify()
+    var
+        LocalLabel: Label 'Local Label in OnAfterModify', Locked = true;
+    begin
+
+    end;
+
+    trigger OnRename()
+    var
+        LocalLabel: Label 'Local Label in %1 OnRename', Comment =
+        'Local label %1';
+    begin
+
+    end;
+
+    trigger OnBeforeRename()
+    var
+        LocalLabel: Label 'Local Label in %1 OnBeforeRename', Comment
+         = 'Local label %1';
+    begin
+
+    end;
+
+    trigger OnAfterRename()
+    var
+        LocalLabel
+        : Label 'Local Label in %1 OnAfterRename', Comment = 'Local %1 label';
+    begin
+
+    end;
+
+    trigger OnDelete()
+    var
+        LocalLabel:
+        Label 'Local Label in %1 OnDelete', Comment = 'Local label %1';
+    begin
+
+    end;
+
+    trigger OnBeforeDelete()
+    var
+        LocalLabel: Label
+        'Local Label in %1 OnBeforeDelete', Comment = 'Local label %1';
+    begin
+
+    end;
+
+    trigger OnAfterDelete()
+    var
+        LocalLabel: Label 'Local Label in %1 OnAfterDelete',
+         Comment = 'Local %1 label';
+    begin
+
+    end;
 
     var
         GlobalLabel: Label 'Global Label';
@@ -101,30 +194,9 @@ tableextension 50000 "TRE Check Table Extension" extends "Sales Line"
     var
         LocalLabel: Label 'Local Label';
         LocalLockedLabel: Label 'Local Locked Label', Locked = true;
-        LocalLabelWithPlaceholders: Label 'Local %1 Label', Comment = 'Label with placeholders, %1 will be replaced with dynamic content.';
-        LocalLockedLabelWithPlaceholders: Label 'Local %1 Label', Locked = true, Comment = 'Label with placeholders, %1 will be replaced with dynamic content.';
-        LocalLockedLabelWithPlaceholders2: Label 'Local %1 Label2', Comment = 'Label with placeholders, %1 will be replaced with dynamic content.', Locked = true;
-        LocalLabelWithPlaceholdersNoDescription: Label 'Local %1 Label';
-        LocalLockedLabelWithPlaceholdersNoDescription: Label 'Local %1 Label', Locked = true;
-        LocalFilterLabelNoDescription: Label '%1|%2';
-        LocalFilterLabel: Label '%1|%2', Comment = '%1 value 1, %2 value 2';
-        LocalFilterLabelLocked: Label '%1|%2', Locked = true, Comment = '%1 value 1, %2 value 2';
-        LocalFilterLabelLocked2: Label '%1|%2', Comment = '%1 value 1, %2 value 2', Locked = true;
+
     begin
         Rec.SetRange("TRE Field 2", '%1|%2');
-        Rec.SetFilter("TRE Field 2", '%1|%2', '%1', '%2');
-        Rec.SetFilter("TRE Field 2", LocalFilterLabel, '%1', '%2');
-        Rec.SetFilter("TRE Field 2", LocalFilterLabelNoDescription, '%1', '%2');
-        Rec.SetFilter("TRE Field 2", LocalFilterLabelLocked, '%1', '%2');
-        Rec.SetFilter("TRE Field 2", LocalFilterLabelLocked2, '%1', '%2');
-        Rec.SetFilter("TRE Field 2", GlobalFilterLabel, '%1', '%2');
-        Rec.SetFilter("TRE Field 2", GlobalFilterLabelNoDescription, '%1', '%2');
-        Rec.SetFilter("TRE Field 2", GlobalFilterLabelLocked, '%1', '%2');
-        Rec.SetFilter("TRE Field 2", GlobalFilterLabelLocked2, '%1', '%2');
-        Rec.SetFilter("TRE Field 2", ProtectedGlobalFilterLabel, '%1', '%2');
-        Rec.SetFilter("TRE Field 2", ProtectedGlobalFilterLabelNoDescription, '%1', '%2');
-        Rec.SetFilter("TRE Field 2", ProtectedGlobalFilterLabelLocked, '%1', '%2');
-        Rec.SetFilter("TRE Field 2", ProtectedGlobalFilterLabelLocked2, '%1', '%2');
     end;
 
     procedure GlobalFunction()
