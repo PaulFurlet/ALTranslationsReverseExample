@@ -1822,8 +1822,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - XmlPortNode TRECheckTable - Method OnAfterGetRecord - NamedType LabelInTableElement</note>
         </trans-unit>
         <trans-unit id="XmlPort 1384424591 - XmlPortNode 2977013485 - Method 1151519454 - NamedType 4100839797" size-unit="char" translate="yes" xml:space="preserve">
-          <source>This is a label in the table element OnAfterInitRecord.</source>
-          <target>Це мітка в елементі таблиці OnAfterInitRecord.</target>
+          <source>This is a label in the table element OnAfterInitRecord sales line.</source>
+          <target>Це мітка в елементі таблиці OnAfterInitRecord sales line.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - XmlPortNode TRECheckTable - Method OnAfterInitRecord - NamedType LabelInTableElementInit</note>
         </trans-unit>
@@ -1864,8 +1864,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - XmlPortNode TRECheckLine - Property RequestFilterHeading</note>
         </trans-unit>
         <trans-unit id="XmlPort 1384424591 - XmlPortNode 589089365 - Method 1151519454 - NamedType 4100839797" size-unit="char" translate="yes" xml:space="preserve">
-          <source>This is a label in the table element OnAfterInitRecord.</source>
-          <target>Це мітка в елементі таблиці OnAfterInitRecord.</target>
+          <source>This is a label in the table element OnAfterInitRecord check table.</source>
+          <target>Це мітка в елементі таблиці OnAfterInitRecord check table.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - XmlPortNode TRECheckLine - Method OnAfterInitRecord - NamedType LabelInTableElementInit</note>
         </trans-unit>

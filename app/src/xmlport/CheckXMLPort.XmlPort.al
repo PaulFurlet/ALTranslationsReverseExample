@@ -19,7 +19,8 @@ xmlport 50000 "TRE Check XMLPort"
                     //etc
                     trigger OnAfterInitRecord()
                     var
-                        LabelInTableElementInit: Label 'This is a label in the table element OnAfterInitRecord.';
+                        LabelInTableElementInit:
+                        Label 'This is a label in the table element OnAfterInitRecord check table.';
                     begin
                     end;
                 }
@@ -31,7 +32,7 @@ xmlport 50000 "TRE Check XMLPort"
 
                 trigger OnAfterInitRecord()
                 var
-                    LabelInTableElementInit: Label 'This is a label in the table element OnAfterInitRecord.';
+                    LabelInTableElementInit: Label 'This is a label in the table element OnAfterInitRecord sales line.';
                 begin
                 end;
 
