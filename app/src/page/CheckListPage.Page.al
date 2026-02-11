@@ -6,6 +6,7 @@ page 50001 "TRE Check List Page"
     UsageCategory = None;
     SourceTable = Integer;
     SourceTableView = order(ascending) where(Number = filter(1 .. 10));
+    PromotedActionCategories = 'Process,Reporting';
 
     layout
     {

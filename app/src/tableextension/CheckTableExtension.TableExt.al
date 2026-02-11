@@ -4,6 +4,16 @@ tableextension 50000 "TRE Check Table Extension" extends "TRE Check Table"
 
     fields
     {
+        modify(Field6)
+        {
+            Caption = 'Modified Field 6 Caption';
+            ToolTip = 'Modified Field 6 ToolTip';
+        }
+        modify("Option field")
+        {
+            Caption = 'Modified Option field Caption';
+            ToolTip = 'Modified Option field ToolTip';
+        }
         field(50000; "TRE Field 1"; Integer)
         {
             // this already has a caption with translation, probably show some warning or so

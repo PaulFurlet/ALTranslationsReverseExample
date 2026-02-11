@@ -489,6 +489,12 @@
           <note from="Developer" annotates="general" priority="2">Some comment about %1 placeholder</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Interface Codeunit 1 - Method CheckInterfaceMethod2 - NamedType LocalLabel</note>
         </trans-unit>
+        <trans-unit id="Page 3068689440 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process,Reporting</source>
+          <target>Процес,Звітність</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check List Page - Property PromotedActionCategories</note>
+        </trans-unit>
         <trans-unit id="Page 3068689440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Check List Page</source>
           <target>Сторінка контрольного списку</target>
@@ -1160,6 +1166,30 @@
           <target>Тригер OnAction Деякої Дії</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeAction - Method OnAction - NamedType LocalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 1758856651 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Some Custom Action Title</source>
+          <target>Заголовок про деяку кастомну дію</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeCustomAction - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 1758856651 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a ToolTip for Some Custom Action.</source>
+          <target>Це підказка для деякої кастомної дії.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeCustomAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 1758856651 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a About Text for Some Custom Action</source>
+          <target>Це текст про деяку кастомну дію</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeCustomAction - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 1758856651 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Some Custom Action</source>
+          <target>Деяка кастомна дія</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeCustomAction - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1355965514 - Action 1590924901 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Some Group</source>
@@ -1869,6 +1899,258 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - XmlPortNode TRECheckLine - Method OnAfterInitRecord - NamedType LabelInTableElementInit</note>
         </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>About Check Sales Lines</source>
+          <target>Про перевірку рядків продажу</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>New Instructional Text for Check Sales Lines</source>
+          <target>Новий інструктивний текст для перевірки рядків продажу</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>Category1,Category2</source>
+          <target>Категорія1,Категорія2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>This page extension is used for testing the translation of labels in code.</source>
+          <target>Це розширення сторінки використовується для тестування перекладу міток у коді.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>Check Sales Lines</source>
+          <target>Перевірка рядків продажу</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>Check Sales Lines</source>
+          <target>Перевірка рядків продажу</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Action 131660274 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>About TRE Custom Action</source>
+          <target>Про TRE Користувацьку Дію</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Action TRE Custom Action - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Action 131660274 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>This is a custom action added in the Check Sales Lines page extension.</source>
+          <target>Це користувацька дія, додана в розширення сторінки Перевірка рядків продажу.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Action TRE Custom Action - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Action 131660274 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>About TRE Custom Action</source>
+          <target>Про TRE Користувацьку Дію</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Action TRE Custom Action - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Action 131660274 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>TRE Custom Action</source>
+          <target>TRE Користувацька Дія</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Action TRE Custom Action - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Action 358730761 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>About TRE Custom Group</source>
+          <target>Про TRE Користувацьку Групу</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Action TRE Custom Group - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Action 358730761 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>This is a custom group added in the Check Sales Lines page extension.</source>
+          <target>Це користувацька група, додана в розширення сторінки Перевірка рядків продажу.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Action TRE Custom Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Action 358730761 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>About TRE Custom Group</source>
+          <target>Про TRE Користувацьку Групу</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Action TRE Custom Group - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Action 358730761 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>TRE Custom Group</source>
+          <target>TRE Користувацька Група</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Action TRE Custom Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Action 541157780 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>About TRE Nested Action</source>
+          <target>Про TRE Вкладену Дію</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Action TRE Nested Action - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Action 541157780 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>This is a nested action inside TRE Custom Group.</source>
+          <target>Це вкладена дія всередині TRE Користувацької Групи.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Action TRE Nested Action - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Action 541157780 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>About TRE Nested Action</source>
+          <target>Про TRE Вкладену Дію</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Action TRE Nested Action - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Action 541157780 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>TRE Nested Action</source>
+          <target>TRE Вкладена Дія</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Action TRE Nested Action - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Action 1139572727 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>About Upload File Action</source>
+          <target>Про Дію Завантаження Файлу</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Action UploadFile - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Action 1139572727 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>Upload File ToolTip</source>
+          <target>Підказка Завантаження Файлу</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Action UploadFile - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Action 1139572727 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>About Upload File Action</source>
+          <target>Про Дію Завантаження Файлу</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Action UploadFile - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Action 1139572727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>Upload File</source>
+          <target>Завантажити Файл</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Action UploadFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Action 1139572727 - Method 1377591017 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3595708100">
+          <source>Local Label in Upload File OnAction</source>
+          <target>Локальна мітка в дії Завантажити Файл OnAction</target>
+          <note from="Developer" annotates="general" priority="2">Local label used in OnAction trigger of Upload File action</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Action UploadFile - Method OnAction - NamedType LocalLabel</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Change 278110413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>Category1</source>
+          <target>Категорія1</target>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 0.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Change Category_New - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Change 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>Category2</source>
+          <target>Категорія2</target>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Change Category_Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Change 3004954119 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>About Field 4 Title</source>
+          <target>Про Поле 4 Заголовок</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Change Code - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Change 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>Modified Field 4 ToolTip</source>
+          <target>Змінено Підказку Поля 4</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Change Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Change 3004954119 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>About Field 4</source>
+          <target>Про Поле 4</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Change Code - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Change 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>Modified Field 4 Caption</source>
+          <target>Змінено Заголовок Поля 4</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Change Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Control 3109511877 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>TRE Reserve ToolTip</source>
+          <target>Підказка TRE Резерв</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Control TRE Reserve - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Control 3109511877 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>About TRE Reserve</source>
+          <target>Про TRE Резерв</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Control TRE Reserve - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Control 3109511877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>TRE Reserve</source>
+          <target>TRE Резерв</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Control TRE Reserve - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Control 3109511877 - Method 2126772001 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3595708100">
+          <source>Local Label in TRE Reserve OnValidate</source>
+          <target>Локальна мітка в TRE Резерв OnValidate</target>
+          <note from="Developer" annotates="general" priority="2">Local label used in OnValidate trigger</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Control TRE Reserve - Method OnValidate - NamedType LocalLabel</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Change 2538533960 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>Modified Field 7 ToolTip</source>
+          <target>Змінено Підказку Поля 7</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Change Dimension 1 Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Change 2538533960 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>Instructional Text for Field 7</source>
+          <target>Інструктивний текст для Поля 7</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Change Dimension 1 Code - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Change 2538533960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>Modified Field 7 Caption</source>
+          <target>Змінено Заголовок Поля 7</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Change Dimension 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Change 2538533960 - Method 2404263445 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3595708100">
+          <source>Local Label in Field 7 OnAfterAfterLookup</source>
+          <target>Локальна мітка в Полі 7 OnAfterAfterLookup</target>
+          <note from="Developer" annotates="general" priority="2">Local label used in OnAfterAfterLookup trigger</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Change Dimension 1 Code - Method OnAfterAfterLookup - NamedType LocalLabel</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Change 2538533960 - Method 3059879501 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3595708100">
+          <source>Local Label in Field 7 OnAfterValidate</source>
+          <target>Локальна мітка в Полі 7 OnAfterValidate</target>
+          <note from="Developer" annotates="general" priority="2">Local label used in OnAfterValidate trigger</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Change Dimension 1 Code - Method OnAfterValidate - NamedType LocalLabel</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Change 2538533960 - Method 2699620902 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3595708100">
+          <source>Local Label in Field 7 OnAssistEdit</source>
+          <target>Локальна мітка в Полі 7 OnAssistEdit</target>
+          <note from="Developer" annotates="general" priority="2">Local label used in OnAssistEdit trigger</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Change Dimension 1 Code - Method OnAssistEdit - NamedType LocalLabel</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Change 2538533960 - Method 3279464882 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3595708100">
+          <source>Local Label in Field 7 OnBeforeValidate</source>
+          <target>Локальна мітка в Полі 7 OnBeforeValidate</target>
+          <note from="Developer" annotates="general" priority="2">Local label used in OnBeforeValidate trigger</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Change Dimension 1 Code - Method OnBeforeValidate - NamedType LocalLabel</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Change 2538533960 - Method 1845446376 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3595708100">
+          <source>Local Label in Field 7 OnDrillDown</source>
+          <target>Локальна мітка в Полі 7 OnDrillDown</target>
+          <note from="Developer" annotates="general" priority="2">Local label used in OnDrillDown trigger</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Change Dimension 1 Code - Method OnDrillDown - NamedType LocalLabel</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Change 2538533960 - Method 1213635141 - NamedType 947829021" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3595708100">
+          <source>Local Label in Field 7 OnLookup</source>
+          <target>Локальна мітка в Полі 7 OnLookup</target>
+          <note from="Developer" annotates="general" priority="2">Local label used in OnLookup trigger</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Change Dimension 1 Code - Method OnLookup - NamedType LocalLabel</note>
+        </trans-unit>
         <trans-unit id="Table 3557637949 - NamedType 1377898059" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1987142438">
           <source>%1|%2</source>
           <target>%1|%2</target>
@@ -2102,6 +2384,30 @@
           <target>Поле 4</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Field TRE Field 4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Change 428084024 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3557637949">
+          <source>Modified Field 6 ToolTip</source>
+          <target>Змінено Підказку Поля 6</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Change Field6 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Change 428084024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3557637949">
+          <source>Modified Field 6 Caption</source>
+          <target>Змінено Заголовок Поля 6</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Change Field6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Change 1493712163 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3557637949">
+          <source>Modified Option field ToolTip</source>
+          <target>Змінено Підказку Опційного Поля</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Change Option field - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Change 1493712163 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3557637949">
+          <source>Modified Option field Caption</source>
+          <target>Змінено Заголовок Опційного Поля</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TRE Check Table Extension - Change Option field - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 2400265855 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
           <source>New Caption for Sales Line</source>

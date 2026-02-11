@@ -1,0 +1,115 @@
+pageextension 50000 "TRE Check Sales Lines" extends "Sales Analysis View Card"
+{
+    Caption = 'Check Sales Lines';
+    AboutText = 'This page extension is used for testing the translation of labels in code.';
+    AboutTitle = 'About Check Sales Lines';
+    AdditionalSearchTerms = 'Check Sales Lines';
+    InstructionalText = 'New Instructional Text for Check Sales Lines';
+    PromotedActionCategories = 'Category1,Category2';
+    layout
+    {
+        modify(Code)
+        {
+            AboutText = 'About Field 4';
+            Caption = 'Modified Field 4 Caption';
+            ToolTip = 'Modified Field 4 ToolTip';
+            AboutTitle = 'About Field 4 Title';
+        }
+        modify("Dimension 1 Code")
+        {
+            InstructionalText = 'Instructional Text for Field 7';
+            Caption = 'Modified Field 7 Caption';
+            ToolTip = 'Modified Field 7 ToolTip';
+            trigger OnLookup(var Text: Text): Boolean
+            var
+                LocalLabel: Label 'Local Label in Field 7 OnLookup', Comment = 'Local label used in OnLookup trigger';
+            begin
+            end;
+
+            trigger OnAfterAfterLookup(Selected: RecordRef)
+            var
+                LocalLabel: Label 'Local Label in Field 7 OnAfterAfterLookup', Comment = 'Local label used in OnAfterAfterLookup trigger';
+            begin
+            end;
+
+            trigger OnAfterValidate()
+            var
+                LocalLabel: Label 'Local Label in Field 7 OnAfterValidate', Comment = 'Local label used in OnAfterValidate trigger';
+            begin
+            end;
+
+            trigger OnBeforeValidate()
+            var
+                LocalLabel: Label 'Local Label in Field 7 OnBeforeValidate', Comment = 'Local label used in OnBeforeValidate trigger';
+            begin
+            end;
+
+            trigger OnAssistEdit()
+            var
+                LocalLabel: Label 'Local Label in Field 7 OnAssistEdit', Comment = 'Local label used in OnAssistEdit trigger';
+            begin
+            end;
+
+            trigger OnDrillDown()
+            var
+                LocalLabel: Label 'Local Label in Field 7 OnDrillDown', Comment = 'Local label used in OnDrillDown trigger';
+            begin
+            end;
+        }
+        addfirst(General)
+        {
+            field("TRE Reserve"; Rec.Blocked)
+            {
+                AboutText = 'About TRE Reserve';
+                Caption = 'TRE Reserve';
+                ToolTip = 'TRE Reserve ToolTip';
+                trigger OnValidate()
+                var
+                    LocalLabel: Label 'Local Label in TRE Reserve OnValidate', Comment = 'Local label used in OnValidate trigger';
+                begin
+                end;
+            }
+        }
+    }
+    actions
+    {
+        addfirst(Processing)
+        {
+            action("TRE Custom Action")
+            {
+                Caption = 'TRE Custom Action';
+                ToolTip = 'This is a custom action added in the Check Sales Lines page extension.';
+                AboutText = 'About TRE Custom Action';
+                AboutTitle = 'About TRE Custom Action';
+                RunObject = page "TRE Check Page";
+            }
+            fileuploadaction(UploadFile)
+            {
+                Caption = 'Upload File';
+                ToolTip = 'Upload File ToolTip';
+                AboutText = 'About Upload File Action';
+                AboutTitle = 'About Upload File Action';
+                trigger OnAction(Files: List of [FileUpload])
+                var
+                    LocalLabel: Label 'Local Label in Upload File OnAction', Comment = 'Local label used in OnAction trigger of Upload File action';
+                begin
+                end;
+            }
+            group("TRE Custom Group")
+            {
+                Caption = 'TRE Custom Group';
+                ToolTip = 'This is a custom group added in the Check Sales Lines page extension.';
+                AboutText = 'About TRE Custom Group';
+                AboutTitle = 'About TRE Custom Group';
+                action("TRE Nested Action")
+                {
+                    Caption = 'TRE Nested Action';
+                    ToolTip = 'This is a nested action inside TRE Custom Group.';
+                    AboutText = 'About TRE Nested Action';
+                    AboutTitle = 'About TRE Nested Action';
+                    RunObject = page "TRE Check Page";
+                }
+            }
+        }
+    }
+}

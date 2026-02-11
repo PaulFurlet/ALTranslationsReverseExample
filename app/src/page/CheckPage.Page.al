@@ -221,6 +221,15 @@ page 50000 "TRE Check Page"
                     }
                 }
             }
+            customaction(SomeCustomAction)
+            {
+                Caption = 'Some Custom Action';
+                ToolTip = 'This is a ToolTip for Some Custom Action.';
+                AboutText = 'This is a About Text for Some Custom Action';
+                AboutTitle = 'About Some Custom Action Title';
+                CustomActionType = Flow;
+                FlowId = '0c545001-d0e7-4408-9e5c-113d5fd6f3af';
+            }
         }
         area(Promoted)
         {
