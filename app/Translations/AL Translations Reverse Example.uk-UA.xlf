@@ -2073,6 +2073,42 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Change Code - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Control 3659655100 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>About Title field with space in the end </source>
+          <target>Про Заголовок поля з пробілом в кінці </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Control name with space in the end  - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Control 3659655100 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>ToolTip for field with space in the end </source>
+          <target>Підказка для поля з пробілом в кінці </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Control name with space in the end  - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Control 3659655100 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>Instructional text for field with space in the end </source>
+          <target>Інструктивний текст для поля з пробілом в кінці </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Control name with space in the end  - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Control 3659655100 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>About field with space in the end </source>
+          <target>Про поле з пробілом в кінці </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Control name with space in the end  - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Control 3659655100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
+          <source>Field with space in the end </source>
+          <target>Поле з пробілом в кінці </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Control name with space in the end  - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Control 3659655100 - Method 2126772001 - NamedType 1322176526" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3595708100">
+          <source>Local Label name and value with space in the end </source>
+          <target>Локальна мітка назви та значення з пробілом в кінці </target>
+          <note from="Developer" annotates="general" priority="2">Local label used in OnValidate trigger</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Control name with space in the end  - Method OnValidate - NamedType LocalLable name with space in end </note>
+        </trans-unit>
         <trans-unit id="PageExtension 3595708100 - Control 3109511877 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
           <source>TRE Reserve ToolTip</source>
           <target>Підказка TRE Резерв</target>

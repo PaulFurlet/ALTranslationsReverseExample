@@ -69,6 +69,20 @@ pageextension 50000 "TRE Check Sales Lines" extends "Sales Analysis View Card"
                 begin
                 end;
             }
+            field("name with space in the end "; Rec.Code)
+            {
+                Caption = 'Field with space in the end ';
+                ToolTip = 'ToolTip for field with space in the end ';
+                AboutText = 'About field with space in the end ';
+                AboutTitle = 'About Title field with space in the end ';
+                InstructionalText = 'Instructional text for field with space in the end ';
+                trigger OnValidate()
+                var
+                    "LocalLable name with space in end ": Label 'Local Label name and value with space in the end ', Comment = 'Local label used in OnValidate trigger';
+                begin
+
+                end;
+            }
         }
     }
     actions
