@@ -23,6 +23,7 @@ codeunit 50000 "TRE Check Codeunit"
         myLocalLockedLabelWithPlaceholders: Label 'Local Locked %1 Label %2 in %3 CalledLocalFunction', Locked = true;
         myLocalLockedFilter2: Label '%1|%2|%3', Comment = '%1 filter1, %2 filter2, %3 filter3', Locked = true;
         myLocalLockedLabelWithDescribedPlaceholders2: Label 'Local Locked %1 Label %2 in %3 CalledLocalFunction', Comment = '%1 ph1, %2 ph2, %3 ph3', Locked = true;
+        DifferentAgreementNoErr: Label 'The selected project tasks have different %1. Please select project tasks with the same %1.', Comment = '%1 - "CRTUA Agreement No." caption';
     begin
         Message('hardcoded text in called local function');
         Message('hardcoded %1 text %2 with %3 placeholders in called local function', 'ph1', 'ph2', 'ph3');

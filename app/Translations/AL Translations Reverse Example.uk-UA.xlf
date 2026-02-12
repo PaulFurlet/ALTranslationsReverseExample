@@ -471,6 +471,13 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledLocalFunction - NamedType myLocalFilterNoDescription</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - Method 1189133520 - NamedType 238116601" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The selected project tasks have different %1. Please select project tasks with the same %1.</source>
+          <target>Вибрані проєктні завдання мають різний %1. Будь ласка, оберіть проєктні завдання з однаковим %1.</target>
+          <note from="Developer" annotates="general" priority="2">%1 - "CRTUA Agreement No." caption</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledLocalFunction - NamedType DifferentAgreementNoErr</note>
+        </trans-unit>
         <trans-unit id="Codeunit 1547683966 - NamedType 1626783127" size-unit="char" translate="yes" xml:space="preserve">
           <source>Global %1 label</source>
           <target>Глобальна %1 мітка</target>
