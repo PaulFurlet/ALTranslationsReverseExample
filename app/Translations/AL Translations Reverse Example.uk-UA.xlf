@@ -2794,8 +2794,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - ReportLayout RenderingLayout - Property Summary</note>
         </trans-unit>
         <trans-unit id="ReportExtension 3041432534 - ReportLayout 2313414932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 3789754263">
-          <source>Check Report Ext Layout</source>
-          <target>Перевірити макет розширення звіту</target>
+          <source>Check Report Ext Layout (Word)</source>
+          <target>Перевірити макет розширення звіту (Word)</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - ReportLayout RenderingLayout - Property Caption</note>
         </trans-unit>
