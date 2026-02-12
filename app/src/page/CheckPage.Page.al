@@ -62,7 +62,7 @@ page 50000 "TRE Check Page"
                 {
                     trigger OnLookup(var Text: Text): Boolean
                     var
-                        LocalVarLabel: Label 'OnLookup Trigger';
+                        LocalVarLabel: Label 'OnLookup Trigger', Comment = 'some comment, with ;semicolon, and comma';
                     begin
                     end;
                 }
@@ -70,7 +70,7 @@ page 50000 "TRE Check Page"
                 {
                     trigger OnValidate()
                     var
-                        LocalVarLabel: Label 'OnValidate Trigger';
+                        LocalVarLabel: Label 'OnValidate Trigger', Comment = 'some comment, with comma and; semicolon';
                     begin
                     end;
                 }
@@ -82,8 +82,8 @@ page 50000 "TRE Check Page"
                 }
                 field(OptionField; OptionVariable)
                 {
-                    Caption = 'Option Field';
-                    ToolTip = 'This is a ToolTip for Option Field.';
+                    Caption = 'Option Field', Comment = 'Some comment;with semicolon';
+                    ToolTip = 'This is a ToolTip for Option Field.', Comment = 'Some comment,with comma';
                     OptionCaption = 'Option 1 Caption,Option 2 Caption,Option 3 Caption';
                 }
             }

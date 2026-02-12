@@ -1038,7 +1038,7 @@
         <trans-unit id="Page 1355965514 - Control 2256973727 - Method 1213635141 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
           <source>OnLookup Trigger</source>
           <target>Тригер OnLookup</target>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">some comment, with ;semicolon, and comma</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Field "7" - Method OnLookup - NamedType LocalVarLabel</note>
         </trans-unit>
         <trans-unit id="Page 1355965514 - Control 157186525 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
@@ -1062,7 +1062,7 @@
         <trans-unit id="Page 1355965514 - Control 3814457204 - Method 2126772001 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
           <source>OnValidate Trigger</source>
           <target>Тригер OnValidate</target>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">some comment, with comma and; semicolon</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Field 2 - Method OnValidate - NamedType LocalVarLabel</note>
         </trans-unit>
         <trans-unit id="Page 1355965514 - Control 2539063970 - Method 3936589804 - NamedType 3037297746" size-unit="char" translate="yes" xml:space="preserve">
@@ -1086,13 +1086,13 @@
         <trans-unit id="Page 1355965514 - Control 404504563 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>This is a ToolTip for Option Field.</source>
           <target>Це підказка для поля опцій.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">Some comment,with comma</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control OptionField - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1355965514 - Control 404504563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Option Field</source>
           <target>Поле опцій</target>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">Some comment;with semicolon</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control OptionField - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1355965514 - Control 404504563 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
