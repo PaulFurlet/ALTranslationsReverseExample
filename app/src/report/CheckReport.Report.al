@@ -17,6 +17,23 @@ report 50000 "TRE Check Report"
             column(ApplfromItemEntry; "Appl.-from Item Entry")
             {
             }
+            trigger OnAfterGetRecord()
+            var
+                NoRecWithDatesLbl: Label 'No G/L Entries found with a Posting Date within the selected date range on the report request page.';
+            begin
+            end;
+
+            trigger OnPostDataItem()
+            var
+                ReversedErr: Label 'No G/L entries found with the Reversed field set to No.';
+            begin
+            end;
+
+            trigger OnPreDataItem()
+            var
+                NoGLEntryErr: Label 'No G/L Entries found where the G/L Account No. field matches the value of field Interim Account from line %1 of the cost allocation setup %2.', Comment = '%1 - Line No, %2 - Code No.';
+            begin
+            end;
         }
     }
     requestpage

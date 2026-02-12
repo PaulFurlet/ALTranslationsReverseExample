@@ -1305,6 +1305,24 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Report 393243173 - ReportDataItem 3664586602 - Method 3245603402 - NamedType 1358544062" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No G/L Entries found with a Posting Date within the selected date range on the report request page.</source>
+          <target>Записів ГК, де значення поля Дата обліку входить у  вказаний на сторінці запиту звіту діапазон дат не знайдено.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - ReportDataItem SalesLine - Method OnAfterGetRecord - NamedType NoRecWithDatesLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - ReportDataItem 3664586602 - Method 3715240 - NamedType 403291627" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No G/L entries found with the Reversed field set to No.</source>
+          <target>Записів ГК, де значення поля Сторновано рівно Ні не знайдено.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - ReportDataItem SalesLine - Method OnPostDataItem - NamedType ReversedErr</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - ReportDataItem 3664586602 - Method 72583909 - NamedType 2180647469" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No G/L Entries found where the G/L Account No. field matches the value of field Interim Account from line %1 of the cost allocation setup %2.</source>
+          <target>Записів ГК, де поле Номер рахунку ГК дорівнює значенню поля Проміжний рахунок рядка %1 з налаштування розподілу витрат %2 не знайдено.</target>
+          <note from="Developer" annotates="general" priority="2">%1 - Line No, %2 - Code No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - ReportDataItem SalesLine - Method OnPreDataItem - NamedType NoGLEntryErr</note>
+        </trans-unit>
         <trans-unit id="Report 393243173 - RequestPage 2516438534 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
           <source>XMLPort Request Page Title</source>
           <target>Заголовок сторінки запиту XMLPort</target>
