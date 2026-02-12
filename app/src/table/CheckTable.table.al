@@ -145,7 +145,11 @@ table 50000 "TRE Check Table"
             Caption = 'Option field';
             ToolTip = 'Tooltip for option field.';
         }
-
+        field(24; "Non-billable for PE Invoice"; Decimal)
+        {
+            DataClassification = CustomerContent;
+            Caption = 'Non-billable for PE Invoice';
+        }
     }
     keys
     {

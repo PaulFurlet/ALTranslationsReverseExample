@@ -86,6 +86,11 @@ page 50000 "TRE Check Page"
                     ToolTip = 'This is a ToolTip for Option Field.', Comment = 'Some comment,with comma';
                     OptionCaption = 'Option 1 Caption,Option 2 Caption,Option 3 Caption';
                 }
+                field("Non-billable for PE Invoice"; Rec."Non-billable for PE Invoice")
+                {
+                    ApplicationArea = All;
+                    ToolTip = 'Specifies the non-billable time for PE invoice.';
+                }
             }
             group(Additional)
             {

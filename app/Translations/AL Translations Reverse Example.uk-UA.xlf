@@ -297,6 +297,12 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field Method OnLookup - NamedType - Method OnLookup - NamedType LocalLabel</note>
         </trans-unit>
+        <trans-unit id="Table 3557637949 - Field 3319418848 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Non-billable for PE Invoice</source>
+          <target>Не сплачується для інвойсу ФОП</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field Non-billable for PE Invoice - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3557637949 - Field 1493712163 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Tooltip for option field.</source>
           <target>Підказка для поля опцій.</target>
@@ -475,7 +481,6 @@
           <source>The selected project tasks have different %1. Please select project tasks with the same %1.</source>
           <target>Вибрані проєктні завдання мають різний %1. Будь ласка, оберіть проєктні завдання з однаковим %1.</target>
           <note from="Developer" annotates="general" priority="2">%1 - "CRTUA Agreement No." caption</note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledLocalFunction - NamedType DifferentAgreementNoErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 1547683966 - NamedType 1626783127" size-unit="char" translate="yes" xml:space="preserve">
@@ -1089,6 +1094,12 @@
           <target>Тригер OnAfterLookup</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Method OnLookup - NamedType - Method OnAfterLookup - NamedType LocalVarLabel</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Control 3319418848 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the non-billable time for PE invoice.</source>
+          <target>Визначає неоплачений за інвойсом з ФОП час.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Control Non-billable for PE Invoice - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1355965514 - Control 404504563 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>This is a ToolTip for Option Field.</source>
