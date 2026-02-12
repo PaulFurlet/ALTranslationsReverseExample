@@ -1592,12 +1592,11 @@
           <source>This is a label ;in the variables section of the query.</source>
           <target>Це мітка ;в розділі змінних запиту.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source has been modified.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Query TRE Check Query - NamedType ;LabelInVarSection with semicolon and spaces in the end   </note>
         </trans-unit>
         <trans-unit id="Query 1232026921 - Method 1336600528 - NamedType 3447208650" size-unit="char" translate="yes" xml:space="preserve">
           <source>This is a label in the query OnBeforeOpen trigger.</source>
-          <target>Це мітка в тригері OnBeforeOpen запиту.</target>
+          <target>[NAB: SUGGESTION]Це мітка в тригері OnBeforeOpen запиту.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Query TRE Check Query - Method OnBeforeOpen - NamedType LabelInQueryBeforeOpen</note>
         </trans-unit>
