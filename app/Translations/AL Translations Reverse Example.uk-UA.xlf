@@ -1584,6 +1584,7 @@
         <trans-unit id="Query 1232026921 - NamedType 1270989053" size-unit="char" translate="yes" xml:space="preserve">
           <source>=This is a - label - in the variables section of the query. with equals =</source>
           <target>=Це - мітка - в розділі змінних запиту. з рівними =</target>
+          <target>[NAB: SUGGESTION]Номер операції</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Query TRE Check Query - NamedType  - LabelInVarSection with space and dash and spaces in the end - </note>
         </trans-unit>
