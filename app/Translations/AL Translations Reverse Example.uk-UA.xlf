@@ -1894,8 +1894,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - XmlPortNode TRECheckTable - Property RequestFilterHeading</note>
         </trans-unit>
         <trans-unit id="XmlPort 1384424591 - XmlPortNode 2977013485 - Method 3245603402 - NamedType 2463300283" size-unit="char" translate="yes" xml:space="preserve">
-          <source>This is a label in the table element OnAfterGetRecord.</source>
-          <target>Це мітка в елементі таблиці OnAfterGetRecord.</target>
+          <source> This is a label in the table element OnAfterGetRecord with space in the beginning and end. </source>
+          <target> Це мітка в елементі таблиці OnAfterGetRecord з пробілом на початку та в кінці. </target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">XmlPort TRE Check XMLPort - XmlPortNode TRECheckTable - Method OnAfterGetRecord - NamedType LabelInTableElement</note>
         </trans-unit>

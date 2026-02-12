@@ -26,7 +26,7 @@ xmlport 50000 "TRE Check XMLPort"
                 }
                 trigger OnAfterGetRecord()
                 var
-                    LabelInTableElement: Label 'This is a label in the table element OnAfterGetRecord.';
+                    LabelInTableElement: Label ' This is a label in the table element OnAfterGetRecord with space in the beginning and end. ';
                 begin
                 end;
 
