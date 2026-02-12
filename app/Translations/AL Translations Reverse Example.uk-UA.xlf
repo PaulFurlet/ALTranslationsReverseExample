@@ -2677,7 +2677,6 @@
           <source>Email body will be processed by email system. Available placeholders: &lt;DocumentDate&gt;, &lt;PostingDate&gt;, &lt;DueDate&gt;, &lt;DocumentNo&gt;, &lt;CustomerName&gt;, &lt;ContactName&gt;, &lt;TotalAmount&gt;, &lt;CurrencyCode&gt;, &lt;ContractNo&gt;, &lt;WorkDescription&gt;, &lt;TotalAmountInclSalesTax&gt;, &lt;ServicePeriod&gt;</source>
           <target>Текст електронного листа буде оброблятися системою електронної пошти. Доступні змінні: &lt;DocumentDate&gt;, &lt;PostingDate&gt;, &lt;DueDate&gt;, &lt;ExternalDocumentNo&gt;, &lt;CustomerName&gt;, &lt;TotalAmount&gt;, &lt;CurrencyCode&gt;, &lt;ContractNo&gt;, &lt;WorkDescription&gt;, &lt;TotalAmountInclVAT&gt;, &lt;ServicePeriod&gt;</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - NamedType EmailBodyTextLbl</note>
         </trans-unit>
         <trans-unit id="ReportExtension 3041432534 - NamedType 1379285705" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 3041432534">
@@ -2789,8 +2788,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - Change Vendor - Method OnBeforePreDataItem - NamedType LabelInDataItem</note>
         </trans-unit>
         <trans-unit id="ReportExtension 3041432534 - ReportLayout 2313414932 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 3789754263">
-          <source>This is the summary of the rendering report extension layout.</source>
-          <target>Це підсумок макета розширення звіту.</target>
+          <source>This is the summary of the rendering (Word) report extension layout.</source>
+          <target>Це підсумок макета (Word) розширення звіту.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - ReportLayout RenderingLayout - Property Summary</note>
         </trans-unit>

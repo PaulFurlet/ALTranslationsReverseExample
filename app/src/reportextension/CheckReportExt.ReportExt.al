@@ -71,7 +71,7 @@ reportextension 50000 "TRE Check Report Ext" extends "Vendor - Trial Balance"
             LayoutFile = 'src/reportextension/layouts/CheckReportExtLayout.rdlc';
             Type = RDLC;
             Caption = 'Check Report Ext Layout';
-            Summary = 'This is the summary of the rendering report extension layout.';
+            Summary = 'This is the summary of the rendering (Word) report extension layout.';
         }
     }
 
