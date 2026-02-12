@@ -382,15 +382,15 @@
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - NamedType myGlobalLabelWithPlaceholders</note>
         </trans-unit>
         <trans-unit id="Codeunit 2440856594 - Method 491658766 - NamedType 166316129" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Local Label in CalledGlobalFunction</source>
-          <target>Локальна мітка в CalledGlobalFunction</target>
+          <source>Local Label in CalledGlobalFunction;semicolon,comma;semicolon again</source>
+          <target>Локальна мітка в CalledGlobalFunction;крапка з комою,кома;знову крапка з комою</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledGlobalFunction - NamedType myLocalLabel</note>
         </trans-unit>
         <trans-unit id="Codeunit 2440856594 - Method 491658766 - NamedType 3673043936" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Local %1 Label %2 in %3 CalledGlobalFunction</source>
-          <target>Локальна %1 мітка %2 в %3 CalledGlobalFunction</target>
-          <note from="Developer" annotates="general" priority="2">%1 ph1, %2 ph2, %3 ph3</note>
+          <source>Local %1 Label %2 in %3 CalledGlobalFunction; with comma, and semicolon in the end;</source>
+          <target>Локальна %1 мітка %2 в %3 CalledGlobalFunction; з комою, і крапкою з комою в кінці;</target>
+          <note from="Developer" annotates="general" priority="2">%1 ph1, %2 ph2, %3 ph3; with comment and semicolon;</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledGlobalFunction - NamedType myLocalLabelWithDescribedPlaceholders</note>
         </trans-unit>
         <trans-unit id="Codeunit 2440856594 - Method 491658766 - NamedType 234279935" size-unit="char" translate="yes" xml:space="preserve">
@@ -418,9 +418,9 @@
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledInternalFunction - NamedType myLocalLabel</note>
         </trans-unit>
         <trans-unit id="Codeunit 2440856594 - Method 3508737866 - NamedType 3673043936" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Local %1 Label %2 in %3 CalledInternalFunction</source>
-          <target>Локальна %1 мітка %2 в %3 CalledInternalFunction</target>
-          <note from="Developer" annotates="general" priority="2">%1 ph1, %2 ph2, %3 ph3</note>
+          <source>Local %1 Label %2 in %3; CalledInternalFunction</source>
+          <target>Локальна %1 мітка %2 в %3; CalledInternalFunction</target>
+          <note from="Developer" annotates="general" priority="2">%1 ph1, %2 ph2, %3 ph3; semicolon is used</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledInternalFunction - NamedType myLocalLabelWithDescribedPlaceholders</note>
         </trans-unit>
         <trans-unit id="Codeunit 2440856594 - Method 3508737866 - NamedType 234279935" size-unit="char" translate="yes" xml:space="preserve">
@@ -430,44 +430,44 @@
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledInternalFunction - NamedType myLocalLabelWithPlaceholders</note>
         </trans-unit>
         <trans-unit id="Codeunit 2440856594 - Method 3508737866 - NamedType 1569809691" size-unit="char" translate="yes" xml:space="preserve">
-          <source>%1|%2|%3</source>
-          <target>%1|%2|%3</target>
-          <note from="Developer" annotates="general" priority="2">%1 filter1, %2 filter2, %3 filter3</note>
+          <source>%1|%2|%3, huh</source>
+          <target>%1|%2|%3, хех</target>
+          <note from="Developer" annotates="general" priority="2">%1 filter1, %2 filter2, %3 filter3; comma, is used</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledInternalFunction - NamedType myLocalFilter</note>
         </trans-unit>
         <trans-unit id="Codeunit 2440856594 - Method 3508737866 - NamedType 353004890" size-unit="char" translate="yes" xml:space="preserve">
-          <source>%1|%2|%3</source>
-          <target>%1|%2|%3</target>
+          <source>%1|%2|%3,comma;semicolon?</source>
+          <target>%1|%2|%3,кома;крапказкомою?</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledInternalFunction - NamedType myLocalFilterNoDescription</note>
         </trans-unit>
         <trans-unit id="Codeunit 2440856594 - Method 1189133520 - NamedType 166316129" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Local Label in CalledLocalFunction</source>
-          <target>Локальна мітка у CalledLocalFunction</target>
+          <source>Local Label in CalledLocalFunction, please translate me</source>
+          <target>Локальна мітка у CalledLocalFunction, будь ласка, перекладіть мене</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledLocalFunction - NamedType myLocalLabel</note>
         </trans-unit>
         <trans-unit id="Codeunit 2440856594 - Method 1189133520 - NamedType 3673043936" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Local %1 Label %2 in %3 CalledLocalFunction</source>
-          <target>Локальна %1 мітка %2 у %3 CalledLocalFunction</target>
+          <source>Local %1 Label %2 in %3 CalledLocalFunction, would you like to translate me as well?</source>
+          <target>Локальна %1 мітка %2 у %3 CalledLocalFunction, чи не хотіли б ви перекласти мене теж?</target>
           <note from="Developer" annotates="general" priority="2">%1 ph1, %2 ph2, %3 ph3</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledLocalFunction - NamedType myLocalLabelWithDescribedPlaceholders</note>
         </trans-unit>
         <trans-unit id="Codeunit 2440856594 - Method 1189133520 - NamedType 234279935" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Local %1 Label %2 in %3 CalledLocalFunction</source>
-          <target>Локальна %1 мітка %2 у %3 CalledLocalFunction</target>
+          <source>Local %1 Label %2 in %3 CalledLocalFunction; please translate me too</source>
+          <target>Локальна %1 мітка %2 у %3 CalledLocalFunction; будь ласка, перекладіть мене теж (і кому поставив навмисне)</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledLocalFunction - NamedType myLocalLabelWithPlaceholders</note>
         </trans-unit>
         <trans-unit id="Codeunit 2440856594 - Method 1189133520 - NamedType 1569809691" size-unit="char" translate="yes" xml:space="preserve">
-          <source>%1|%2|%3</source>
-          <target>%1|%2|%3</target>
-          <note from="Developer" annotates="general" priority="2">%1 filter1, %2 filter2, %3 filter3</note>
+          <source>%1|%2|%3; what about me?</source>
+          <target>%1|%2|%3; як щодо мене?</target>
+          <note from="Developer" annotates="general" priority="2">%1 filter1, %2 filter2, %3 filter3; what about us?</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledLocalFunction - NamedType myLocalFilter</note>
         </trans-unit>
         <trans-unit id="Codeunit 2440856594 - Method 1189133520 - NamedType 353004890" size-unit="char" translate="yes" xml:space="preserve">
-          <source>%1|%2|%3</source>
-          <target>%1|%2|%3</target>
+          <source>%1|%2|%3; and me, please</source>
+          <target>%1|%2|%3; і мене, будь ласка</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledLocalFunction - NamedType myLocalFilterNoDescription</note>
         </trans-unit>

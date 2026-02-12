@@ -11,11 +11,11 @@ codeunit 50000 "TRE Check Codeunit"
     local procedure CalledLocalFunction()
     var
         SalesLine: Record "Sales Line";
-        myLocalLabel: Label 'Local Label in CalledLocalFunction';
-        myLocalLabelWithDescribedPlaceholders: Label 'Local %1 Label %2 in %3 CalledLocalFunction', Comment = '%1 ph1, %2 ph2, %3 ph3';
-        myLocalLabelWithPlaceholders: Label 'Local %1 Label %2 in %3 CalledLocalFunction';
-        myLocalFilter: Label '%1|%2|%3', Comment = '%1 filter1, %2 filter2, %3 filter3';
-        myLocalFilterNoDescription: Label '%1|%2|%3';
+        myLocalLabel: Label 'Local Label in CalledLocalFunction, please translate me';
+        myLocalLabelWithDescribedPlaceholders: Label 'Local %1 Label %2 in %3 CalledLocalFunction, would you like to translate me as well?', Comment = '%1 ph1, %2 ph2, %3 ph3';
+        myLocalLabelWithPlaceholders: Label 'Local %1 Label %2 in %3 CalledLocalFunction; please translate me too';
+        myLocalFilter: Label '%1|%2|%3; what about me?', Comment = '%1 filter1, %2 filter2, %3 filter3; what about us?';
+        myLocalFilterNoDescription: Label '%1|%2|%3; and me, please';
         myLocalLockedFilter: Label '%1|%2|%3', Locked = true, Comment = '%1 filter1, %2 filter2, %3 filter3';
         myLocalLockedFilterNoDescription: Label '%1|%2|%3', Locked = true;
         myLocalLockedLabel: Label 'Local Locked Label in CalledLocalFunction', Locked = true;
@@ -55,13 +55,13 @@ codeunit 50000 "TRE Check Codeunit"
     var
         SalesLine: Record "Sales Line";
         myLocalLabel: Label 'Local Label in CalledInternalFunction';
-        myLocalLabelWithDescribedPlaceholders: Label 'Local %1 Label %2 in %3 CalledInternalFunction', Comment = '%1 ph1, %2 ph2, %3 ph3';
+        myLocalLabelWithDescribedPlaceholders: Label 'Local %1 Label %2 in %3; CalledInternalFunction', Comment = '%1 ph1, %2 ph2, %3 ph3; semicolon is used';
         myLocalLabelWithPlaceholders: Label 'Local %1 Label %2 in %3 CalledInternalFunction';
         myLocalLockedLabel: Label 'Local Locked Label in CalledInternalFunction', Locked = true;
         myLocalLockedLabelWithDescribedPlaceholders: Label 'Local Locked %1 Label %2 in %3 CalledInternalFunction', Locked = true, Comment = '%1 ph1, %2 ph2, %3 ph3';
         myLocalLockedLabelWithPlaceholders: Label 'Local Locked %1 Label %2 in %3 CalledInternalFunction', Locked = true;
-        myLocalFilter: Label '%1|%2|%3', Comment = '%1 filter1, %2 filter2, %3 filter3';
-        myLocalFilterNoDescription: Label '%1|%2|%3';
+        myLocalFilter: Label '%1|%2|%3, huh', Comment = '%1 filter1, %2 filter2, %3 filter3; comma, is used';
+        myLocalFilterNoDescription: Label '%1|%2|%3,comma;semicolon?';
         myLocalLockedFilter: Label '%1|%2|%3', Locked = true, Comment = '%1 filter1, %2 filter2, %3 filter3';
         myLocalLockedFilterNoDescription: Label '%1|%2|%3', Locked = true;
         myLocalLockedFilter2: Label '%1|%2|%3', Comment = '%1 filter1, %2 filter2, %3 filter3', Locked = true;
@@ -97,8 +97,8 @@ codeunit 50000 "TRE Check Codeunit"
     procedure CalledGlobalFunction()
     var
         SalesLine: Record "Sales Line";
-        myLocalLabel: Label 'Local Label in CalledGlobalFunction';
-        myLocalLabelWithDescribedPlaceholders: Label 'Local %1 Label %2 in %3 CalledGlobalFunction', Comment = '%1 ph1, %2 ph2, %3 ph3';
+        myLocalLabel: Label 'Local Label in CalledGlobalFunction;semicolon,comma;semicolon again';
+        myLocalLabelWithDescribedPlaceholders: Label 'Local %1 Label %2 in %3 CalledGlobalFunction; with comma, and semicolon in the end;', Comment = '%1 ph1, %2 ph2, %3 ph3; with comment and semicolon;';
         myLocalLabelWithPlaceholders: Label 'Local %1 Label %2 in %3 CalledGlobalFunction';
         myLocalLockedLabel: Label 'Local Locked Label in CalledGlobalFunction', Locked = true;
         myLocalLockedLabelWithDescribedPlaceholders: Label 'Local Locked %1 Label %2 in %3 CalledGlobalFunction', Locked = true, Comment = '%1 ph1, %2 ph2, %3 ph3';
