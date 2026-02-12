@@ -16,6 +16,8 @@ report 50000 "TRE Check Report"
             }
             column(ApplfromItemEntry; "Appl.-from Item Entry")
             {
+                Caption = 'Applied From Item Entry';
+                ToolTip = 'This is the Applied From Item Entry column.';
             }
             trigger OnAfterGetRecord()
             var

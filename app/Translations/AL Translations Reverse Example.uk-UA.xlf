@@ -1323,6 +1323,20 @@
           <note from="Developer" annotates="general" priority="2">%1 - Line No, %2 - Code No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - ReportDataItem SalesLine - Method OnPreDataItem - NamedType NoGLEntryErr</note>
         </trans-unit>
+        <trans-unit id="Report 393243173 - ReportColumn 2477927414 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Applied From Item Entry column.</source>
+          <target>Це стовпець "Застосовано з запису товару".</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - ReportColumn ApplfromItemEntry - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 393243173 - ReportColumn 2477927414 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Applied From Item Entry</source>
+          <target>Застосовано з запису товару</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report TRE Check Report - ReportColumn ApplfromItemEntry - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Report 393243173 - RequestPage 2516438534 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
           <source>XMLPort Request Page Title</source>
           <target>Заголовок сторінки запиту XMLPort</target>
