@@ -2673,6 +2673,13 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PermissionSet TRE Check PermSet - Property Caption</note>
         </trans-unit>
+        <trans-unit id="ReportExtension 3041432534 - NamedType 3139324085" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 3041432534">
+          <source>Email body will be processed by email system. Available placeholders: &lt;DocumentDate&gt;, &lt;PostingDate&gt;, &lt;DueDate&gt;, &lt;DocumentNo&gt;, &lt;CustomerName&gt;, &lt;ContactName&gt;, &lt;TotalAmount&gt;, &lt;CurrencyCode&gt;, &lt;ContractNo&gt;, &lt;WorkDescription&gt;, &lt;TotalAmountInclSalesTax&gt;, &lt;ServicePeriod&gt;</source>
+          <target>Текст електронного листа буде оброблятися системою електронної пошти. Доступні змінні: &lt;DocumentDate&gt;, &lt;PostingDate&gt;, &lt;DueDate&gt;, &lt;ExternalDocumentNo&gt;, &lt;CustomerName&gt;, &lt;TotalAmount&gt;, &lt;CurrencyCode&gt;, &lt;ContractNo&gt;, &lt;WorkDescription&gt;, &lt;TotalAmountInclVAT&gt;, &lt;ServicePeriod&gt;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - NamedType EmailBodyTextLbl</note>
+        </trans-unit>
         <trans-unit id="ReportExtension 3041432534 - NamedType 1379285705" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 3041432534">
           <source>This is a label in the protected variables section of the report extension.</source>
           <target>Це мітка в розділі захищених змінних розширення звіту.</target>

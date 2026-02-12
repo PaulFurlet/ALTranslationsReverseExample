@@ -83,6 +83,7 @@ reportextension 50000 "TRE Check Report Ext" extends "Vendor - Trial Balance"
     var
         SalesLine: Record "Sales Line";
         LabelInVarSection: Label 'This is a label in the variables section of the report extension.';
+        EmailBodyTextLbl: Label 'Email body will be processed by email system. Available placeholders: <DocumentDate>, <PostingDate>, <DueDate>, <DocumentNo>, <CustomerName>, <ContactName>, <TotalAmount>, <CurrencyCode>, <ContractNo>, <WorkDescription>, <TotalAmountInclSalesTax>, <ServicePeriod>';
 
     protected var
         LabelInProtectedVarSection: Label 'This is a label in the protected variables section of the report extension.';
