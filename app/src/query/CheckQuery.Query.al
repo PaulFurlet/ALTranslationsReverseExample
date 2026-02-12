@@ -33,7 +33,8 @@ query 50000 "TRE Check Query"
         }
     }
     var
-        LabelInVarSection: Label 'This is a label in the variables section of the query.';
+        ";LabelInVarSection with semicolon and spaces in the end   ": Label 'This is a label ;in the variables section of the query.';
+        " - LabelInVarSection with space and dash and spaces in the end - ": Label '=This is a - label - in the variables section of the query. with equals =';
 
     trigger OnBeforeOpen()
     var
