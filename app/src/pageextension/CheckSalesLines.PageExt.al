@@ -1,4 +1,4 @@
-pageextension 50000 "TRE Check Sales Lines" extends "Sales Analysis View Card"
+pageextension 50000 "TRE Check Sales Lines" extends "Job Task Lines Subform"
 {
     Caption = 'Check Sales Lines';
     AboutText = 'This page extension is used for testing the translation of labels in code.';
@@ -8,14 +8,14 @@ pageextension 50000 "TRE Check Sales Lines" extends "Sales Analysis View Card"
     PromotedActionCategories = 'Category1,Category2';
     layout
     {
-        modify(Code)
+        modify("Bin Code")
         {
             AboutText = 'About Field 4';
             Caption = 'Modified Field 4 Caption';
             ToolTip = 'Modified Field 4 ToolTip';
             AboutTitle = 'About Field 4 Title';
         }
-        modify("Dimension 1 Code")
+        modify(Description)
         {
             InstructionalText = 'Instructional Text for Field 7';
             Caption = 'Modified Field 7 Caption';
@@ -56,9 +56,9 @@ pageextension 50000 "TRE Check Sales Lines" extends "Sales Analysis View Card"
             begin
             end;
         }
-        addfirst(General)
+        addfirst(Control1)
         {
-            field("TRE Reserve"; Rec.Blocked)
+            field("TRE Reserve"; Rec."Bill-to City")
             {
                 AboutText = 'About TRE Reserve';
                 Caption = 'TRE Reserve';
@@ -69,7 +69,7 @@ pageextension 50000 "TRE Check Sales Lines" extends "Sales Analysis View Card"
                 begin
                 end;
             }
-            field("name with space in the end "; Rec.Code)
+            field("name with space in the end "; rec."Bill-to Post Code")
             {
                 Caption = 'Field with space in the end ';
                 ToolTip = 'ToolTip for field with space in the end ';
@@ -81,6 +81,19 @@ pageextension 50000 "TRE Check Sales Lines" extends "Sales Analysis View Card"
                     "LocalLable name with space in end ": Label 'Local Label name and value with space in the end ', Comment = 'Local label used in OnValidate trigger';
                 begin
 
+                end;
+            }
+        }
+        addlast(content)
+        {
+            field("CRTCU Ship-to Code"; Rec."Ship-to Code")
+            {
+                ApplicationArea = All;
+                ToolTip = 'Specifies the Ship-to Code for the customer receiving the Project Task.';
+                trigger OnLookup(var Text: Text): Boolean
+                var
+                    LocalLabel: Label 'Local Label in CRTCU Ship-to Code OnLookup', Comment = 'Local label used in OnLookup trigger of CRTCU Ship-to Code field';
+                begin
                 end;
             }
         }
