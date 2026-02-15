@@ -1503,6 +1503,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TRE Employee App. Card - Action Documents - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 124649286 - Action 4103188438 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Payroll Ledger Entries</source>
+          <target>Визначає записи книги операцій зарплати.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Employee App. Card - Action Payroll Ledger Entries  - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 124649286 - Action 4103188438 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payroll Ledger Entries</source>
+          <target>Книга операцій зарплати</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Employee App. Card - Action Payroll Ledger Entries  - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 124649286 - Action 732075481 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the Paysheet by Payment Items.</source>
           <target>Визначає відомість по видам розрахунків.</target>
@@ -1514,6 +1526,24 @@
           <target>Відомість по видам розрахунків</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TRE Employee App. Card - Action Paysheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 124649286 - Action 4143578788 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next group</source>
+          <target>Наступна група</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Employee App. Card - Action Next group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 124649286 - Action 3220639774 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Payroll Ledger Entries</source>
+          <target>Визначає книгу операцій зарплати.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Employee App. Card - Action Payroll Ledger Entries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 124649286 - Action 3220639774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payroll Ledger Entries</source>
+          <target>Книга операцій зарплати</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Employee App. Card - Action Payroll Ledger Entries - Property Caption</note>
         </trans-unit>
         <trans-unit id="Report 393243173 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Check Report</source>

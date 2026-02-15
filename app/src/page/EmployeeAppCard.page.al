@@ -23,6 +23,23 @@ page 50002 "TRE Employee App. Card"
                     Enabled = false;
                     Visible = false;
                 }
+                action("Payroll Ledger Entries ")
+                {
+                    ApplicationArea = all;
+                    Caption = 'Payroll Ledger Entries';
+                    ToolTip = 'Specifies the Payroll Ledger Entries';
+                    RunObject = page "FA Ledger Entries";
+                }
+            }
+            group("Next group")
+            {
+                action("Payroll Ledger Entries")
+                {
+                    ApplicationArea = all;
+                    Caption = 'Payroll Ledger Entries';
+                    ToolTip = 'Specifies the Payroll Ledger Entries';
+                    RunObject = page "FA Ledger Entries";
+                }
             }
         }
     }
