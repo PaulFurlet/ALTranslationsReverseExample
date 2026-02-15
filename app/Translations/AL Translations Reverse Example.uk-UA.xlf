@@ -373,7 +373,6 @@
           <source>the is removed label</source>
           <target>це видалена мітка</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field Table TRE Check Table - Field - Method OnLookup - NamedType removed problematic label</note>
         </trans-unit>
         <trans-unit id="Table 3557637949 - FieldGroup 2808719797 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
@@ -2908,6 +2907,36 @@
           <target>Перевірити макет розширення звіту (Word)</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - ReportLayout RenderingLayout - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1658461056 - NamedType 3139324085" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 1658461056">
+          <source>Email body will be processed by email system. Available placeholders: &lt;DocumentDate&gt;, &lt;PostingDate&gt;, &lt;DueDate&gt;, &lt;DocumentNo&gt;, &lt;CustomerName&gt;, &lt;ContactName&gt;, &lt;TotalAmount&gt;, &lt;CurrencyCode&gt;, &lt;ContractNo&gt;, &lt;WorkDescription&gt;, &lt;TotalAmountInclSalesTax&gt;, &lt;ServicePeriod&gt;</source>
+          <target>Текст електронного листа буде оброблятися системою електронної пошти. Доступні змінні: &lt;DocumentDate&gt;, &lt;PostingDate&gt;, &lt;DueDate&gt;, &lt;ExternalDocumentNo&gt;, &lt;CustomerName&gt;, &lt;TotalAmount&gt;, &lt;CurrencyCode&gt;, &lt;ContractNo&gt;, &lt;WorkDescription&gt;, &lt;TotalAmountInclVAT&gt;, &lt;ServicePeriod&gt;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Standard Sales - Invoice - NamedType EmailBodyTextLbl</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1658461056 - ReportColumn 2457662414 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 1658461056">
+          <source>This is the email body text that will be used when sending the posted sales invoice email.</source>
+          <target>Це текст електронного листа, який буде використовуватися при надсиланні опублікованого рахунка-фактури.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Standard Sales - Invoice - ReportColumn TREEmailBodyText - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1658461056 - ReportColumn 2457662414 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 1658461056">
+          <source>Email Body Text</source>
+          <target>Текст електронного листа</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Standard Sales - Invoice - ReportColumn TREEmailBodyText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1658461056 - ReportLayout 2947328569 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 2226024577">
+          <source>The Posted Sales Invoice Email (Word) provides an email body for the posted sales invoice.</source>
+          <target>Лист облікованого інвойсу продажу (Word) надає тіло листа для облікованого інвойсу продажу.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Standard Sales - Invoice - ReportLayout TREPostedSalesInvoiceEmail - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1658461056 - ReportLayout 2947328569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 2226024577">
+          <source>Posted Sales Invoice Email (Word)</source>
+          <target>Лист облікованого інвойсу продажу (Word)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Standard Sales - Invoice - ReportLayout TREPostedSalesInvoiceEmail - Property Caption</note>
         </trans-unit>
       </group>
     </body>

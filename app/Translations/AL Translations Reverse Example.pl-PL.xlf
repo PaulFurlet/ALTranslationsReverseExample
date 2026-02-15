@@ -3379,6 +3379,41 @@
           <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Check Report Ext - ReportLayout RenderingLayout - Property Caption</note>
         </trans-unit>
+        <trans-unit id="ReportExtension 1658461056 - NamedType 3139324085" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 1658461056">
+          <source>Email body will be processed by email system. Available placeholders: &lt;DocumentDate&gt;, &lt;PostingDate&gt;, &lt;DueDate&gt;, &lt;DocumentNo&gt;, &lt;CustomerName&gt;, &lt;ContactName&gt;, &lt;TotalAmount&gt;, &lt;CurrencyCode&gt;, &lt;ContractNo&gt;, &lt;WorkDescription&gt;, &lt;TotalAmountInclSalesTax&gt;, &lt;ServicePeriod&gt;</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Standard Sales - Invoice - NamedType EmailBodyTextLbl</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1658461056 - ReportColumn 2457662414 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 1658461056">
+          <source>This is the email body text that will be used when sending the posted sales invoice email.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Standard Sales - Invoice - ReportColumn TREEmailBodyText - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1658461056 - ReportColumn 2457662414 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="ReportExtension 1658461056">
+          <source>Email Body Text</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Standard Sales - Invoice - ReportColumn TREEmailBodyText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1658461056 - ReportLayout 2947328569 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 2226024577">
+          <source>The Posted Sales Invoice Email (Word) provides an email body for the posted sales invoice.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Standard Sales - Invoice - ReportLayout TREPostedSalesInvoiceEmail - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 1658461056 - ReportLayout 2947328569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 2226024577">
+          <source>Posted Sales Invoice Email (Word)</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension TRE Standard Sales - Invoice - ReportLayout TREPostedSalesInvoiceEmail - Property Caption</note>
+        </trans-unit>
       </group>
     </body>
   </file>
