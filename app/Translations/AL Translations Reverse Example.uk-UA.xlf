@@ -381,6 +381,72 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - FieldGroup Dropdown - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 3915279861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cost Allocation Setup Header</source>
+          <target>Заголовок налаштування розподілу витрат</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Cost Alloc. Setup Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3915279861 - Field 3543129988 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that the cost allocation setup is blocked.</source>
+          <target>Визначає, що налаштування розподілу витрат заблоковано.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Cost Alloc. Setup Header - Field Blocked - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3915279861 - Field 3543129988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blocked</source>
+          <target>Заблоковано</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Cost Alloc. Setup Header - Field Blocked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3915279861 - Field 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the cost allocation setup code.</source>
+          <target>Визначає код налаштування розподілу витрат.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Cost Alloc. Setup Header - Field Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3915279861 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target>Код</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Cost Alloc. Setup Header - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3915279861 - Field 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the cost allocation setup description.</source>
+          <target>Визначає опис налаштування розподілу витрат.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Cost Alloc. Setup Header - Field Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3915279861 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Опис</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Cost Alloc. Setup Header - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3915279861 - Field 458406397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the cost allocation setup ending date.</source>
+          <target>Визначає   дату завершення налаштування розподілу витрат.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Cost Alloc. Setup Header - Field Ending Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3915279861 - Field 458406397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Date</source>
+          <target>Дата закінчення</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Cost Alloc. Setup Header - Field Ending Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3915279861 - Field 460889064 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the cost allocation setup starting date.</source>
+          <target>Визначає   дату початку налаштування розподілу витрат.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Cost Alloc. Setup Header - Field Starting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3915279861 - Field 460889064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date</source>
+          <target>Дата початку</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Cost Alloc. Setup Header - Field Starting Date - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Codeunit 1329016315 - NamedType 3412153012" size-unit="char" translate="yes" xml:space="preserve">
           <source>global Label with space in name and caption </source>
           <target>Глобальна мітка з пробілом у назві та підписі </target>
