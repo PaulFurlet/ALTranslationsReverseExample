@@ -583,7 +583,6 @@
           <source>The Posting Date field is blank. Timesheet cannot be posted.</source>
           <target>Поле Дата обліку пусте. Неможливо облікувати табель.</target>
           <note from="Developer" annotates="general" priority="2">uk-UA=Дата обліку знаходиться в закритому зарплатному періоді. Табель не може бути облікований.</note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledLocalFunction - NamedType EmptyPostingDateErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 2440856594 - Method 1189133520 - NamedType 238116601" size-unit="char" translate="yes" xml:space="preserve">
@@ -596,7 +595,6 @@
           <source>Posting date is in the closed payroll period. Timesheet cannot be posted.</source>
           <target>Дата обліку знаходиться в закритому зарплатному періоді. Табель не може бути облікований.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledLocalFunction - NamedType PostingDateErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 1547683966 - NamedType 1626783127" size-unit="char" translate="yes" xml:space="preserve">
@@ -619,9 +617,8 @@
         </trans-unit>
         <trans-unit id="Codeunit 1946584410 - NamedType 2592457002" size-unit="char" translate="yes" xml:space="preserve">
           <source>Test label in the same file but different object type</source>
-          <target>[NAB: NOT TRANSLATED]</target>
+          <target>Тестова мітка в тому ж файлі, але іншого типу об'єкта</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE pupupu - NamedType label</note>
         </trans-unit>
         <trans-unit id="Page 3068689440 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
@@ -947,6 +944,12 @@
           <target>Додаткові пошукові терміни Сторінки Перевірки</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - NamedType 598107304" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Posted Vacation Compensation %1 will be cancelled. Do you want to continue?</source>
+          <target>Облікована компенсація відпустки %1 буде відмінена. Ви хочете продовжити?</target>
+          <note from="Developer" annotates="general" priority="2">%1 - CRTHP Absence Ledger Entry."Document No."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - NamedType ConfCancelQst</note>
         </trans-unit>
         <trans-unit id="Page 1355965514 - NamedType 2551307364" size-unit="char" translate="yes" xml:space="preserve">
           <source>Global Variable</source>

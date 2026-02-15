@@ -265,6 +265,7 @@ page 50000 "TRE Check Page"
     var
         OptionVariable: Option "Option 1","Option 2","Option 3";
         GlobalVarLabel: Label 'Global Variable';
+        ConfCancelQst: Label 'The Posted Vacation Compensation %1 will be cancelled. Do you want to continue?', Comment = '%1 - CRTHP Absence Ledger Entry."Document No."';
 
     local procedure SomeLocalProcedure()
     var
