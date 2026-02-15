@@ -171,6 +171,13 @@ page 50000 "TRE Check Page"
                 ApplicationArea = All;
                 Caption = 'System FactBox with Notes';
             }
+            part(Lines; "Sales Cr. Memo Subform")
+            {
+                Caption = 'Lines';
+                ApplicationArea = All;
+                SubPageLink = "Document No." = const('12345');
+                UpdatePropagation = Both;
+            }
         }
     }
     actions
