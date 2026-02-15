@@ -182,6 +182,24 @@ page 50000 "TRE Check Page"
     }
     actions
     {
+        area(Processing)
+        {
+            group(Timesheet)
+            {
+                Caption = 'Timesheet';
+                action("Update Timesheet")
+                {
+                    Caption = 'Update Timesheet';
+                    ToolTip = 'Specifies the action Update Timesheet.';
+                    Image = Timesheet;
+                    ApplicationArea = All;
+                    Visible = false;
+                    trigger OnAction()
+                    begin
+                    end;
+                }
+            }
+        }
         area(Creation)
         {
             action(SomeAction)

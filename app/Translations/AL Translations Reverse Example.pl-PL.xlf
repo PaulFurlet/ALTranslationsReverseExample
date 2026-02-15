@@ -1650,6 +1650,27 @@
           <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeActionInGroup - Method OnAction - NamedType LocalVarLabel</note>
         </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 1997221262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Timesheet</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action Timesheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 39537749 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the action Update Timesheet.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action Update Timesheet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 39537749 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Timesheet</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action Update Timesheet - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1355965514 - Action 2509503154 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
           <source>About Some Group in Promoted Title</source>
           <target>[NAB: NOT TRANSLATED]</target>
