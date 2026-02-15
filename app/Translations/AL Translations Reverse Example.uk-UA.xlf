@@ -1353,6 +1353,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeActionInAnotherGroup - Method OnAction - NamedType LocalVarLabel</note>
         </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 2878041247 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GroupWithoutCaption</source>
+          <target>ГрупаБезНазви</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action GroupWithoutCaption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 3058222552 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ActionWithoutCaption</source>
+          <target>ЕкшнБезНазви</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action ActionWithoutCaption - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1355965514 - Action 2047329190 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
           <source>About Some Action in Group Title</source>
           <target>Про деяку дію в групі</target>

@@ -225,6 +225,17 @@ page 50000 "TRE Check Page"
                         end;
                     }
                 }
+                group(GroupWithoutCaption)
+                {
+                    action(ActionWithoutCaption)
+                    {
+                        Image = NewDocument;
+                        trigger OnAction()
+                        begin
+                            Message('No captions here');
+                        end;
+                    }
+                }
             }
             customaction(SomeCustomAction)
             {
