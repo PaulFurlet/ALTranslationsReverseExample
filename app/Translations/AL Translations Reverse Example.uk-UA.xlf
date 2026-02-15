@@ -185,13 +185,13 @@
         </trans-unit>
         <trans-unit id="Table 3557637949 - Field 2500714921 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source> This is the field with-dash and spaces </source>
-          <target> Це поле з дефісом та пробілами </target>
+          <target> Це поле з-дефісом та пробілами </target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field  Field with-dash and spaces  - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Table 3557637949 - Field 2500714921 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source> The Field with-dash and spaces </source>
-          <target> Поле з дефісом та пробілами </target>
+          <target> Поле з-дефісом та пробілами </target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field  Field with-dash and spaces  - Property Caption</note>
         </trans-unit>
