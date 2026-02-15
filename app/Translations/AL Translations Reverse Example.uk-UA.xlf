@@ -1425,6 +1425,24 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeActionInGroup - Method OnAction - NamedType LocalVarLabel</note>
         </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 732012919 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Actions</source>
+          <target>Дії</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action Actions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 2914340940 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the action Restore Manning Table Unit.</source>
+          <target>Визначає дію Відновити штатну одиницю.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action Restore - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1355965514 - Action 2914340940 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Restore Manning Table Unit</source>
+          <target>Відновити штатну одиницю</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action Restore - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1355965514 - Action 1997221262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Timesheet</source>
           <target>Табель обліку робочого часу</target>

@@ -199,6 +199,24 @@ page 50000 "TRE Check Page"
                     end;
                 }
             }
+            group("Actions")
+            {
+                action(Restore)
+                {
+                    ApplicationArea = All;
+                    Caption = 'Restore Manning Table Unit';
+                    ToolTip = 'Specifies the action Restore Manning Table Unit.';
+                    Enabled = true;
+                    Image = Suggest;
+                    // Promoted = true;
+                    // PromotedCategory = Category4;
+
+                    trigger OnAction()
+                    begin
+
+                    end;
+                }
+            }
         }
         area(Creation)
         {
