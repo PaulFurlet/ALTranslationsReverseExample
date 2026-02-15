@@ -17,7 +17,7 @@ reportextension 50001 "TRE Standard Sales - Invoice" extends "Standard Sales - I
         layout(TREPostedSalesInvoiceEmail)
         {
             Type = Word;
-            LayoutFile = 'src/reportextensions/layouts/PostedSalesInvoiceEmail.docx';
+            LayoutFile = 'src/reportextension/layouts/PostedSalesInvoiceEmail.docx';
             Caption = 'Posted Sales Invoice Email (Word)';
             Summary = 'The Posted Sales Invoice Email (Word) provides an email body for the posted sales invoice.';
         }
@@ -25,4 +25,10 @@ reportextension 50001 "TRE Standard Sales - Invoice" extends "Standard Sales - I
 
     var
         EmailBodyTextLbl: Label 'Email body will be processed by email system. Available placeholders: <DocumentDate>, <PostingDate>, <DueDate>, <DocumentNo>, <CustomerName>, <ContactName>, <TotalAmount>, <CurrencyCode>, <ContractNo>, <WorkDescription>, <TotalAmountInclSalesTax>, <ServicePeriod>';
+}
+
+codeunit 50003 "TRE pupupu"
+{
+    var
+        label: Label 'Test label in the same file but different object type';
 }
