@@ -26,4 +26,6 @@ page 50002 "TRE Employee App. Card"
             }
         }
     }
+    var
+        ChangeCalQst: Label 'The change of the value will influence the  calculation of vacation days/hours accrued based on the employee''s actual worked time. This may result in discrepancies between previously made accruals and new ones using the updated procedure. Are you sure you want to proceed with this change?';
 }

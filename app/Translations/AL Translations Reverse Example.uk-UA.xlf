@@ -1425,6 +1425,12 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TRE Employee App. Card - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 124649286 - NamedType 3221564402" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The change of the value will influence the  calculation of vacation days/hours accrued based on the employee's actual worked time. This may result in discrepancies between previously made accruals and new ones using the updated procedure. Are you sure you want to proceed with this change?</source>
+          <target>Зміна значення вплине на розрахунок нарахування днів/годин відпустки співробітника за відпрацьований час, що може призвести до невідповідності між уже здійсненими нарахуваннями та новими, виконаними за новою процедурою розрахунку. Ви впевнені, що бажаєте змінити значення?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Employee App. Card - NamedType ChangeCalQst</note>
+        </trans-unit>
         <trans-unit id="Page 124649286 - Action 3324780168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Documents</source>
           <target>Документи</target>
