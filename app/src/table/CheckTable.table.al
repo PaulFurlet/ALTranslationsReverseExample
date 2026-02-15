@@ -133,9 +133,8 @@ table 50000 "TRE Check Table"
             ToolTip = 'This is another interesting case for testing field name with parsing stuff.';
             trigger OnLookup()
             var
-                "Table TRE Check Table - Field Field ""7"" - Property Caption": Label 'this is 99.(9)% unusual case, but still valid definition';
+                "removed problematic label": Label 'the is removed label';
             begin
-                Message("Table TRE Check Table - Field Field ""7"" - Property Caption");
             end;
         }
         field(10; "Option field"; Option)

@@ -369,11 +369,12 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field Table TRE Check Table - Field - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 3557637949 - Field 268958358 - Method 1213635141 - NamedType 507403045" size-unit="char" translate="yes" xml:space="preserve">
-          <source>this is 99.(9)% unusual case, but still valid definition</source>
-          <target>Це 99.(9)% незвичайний випадок, але все ще дійсне визначення</target>
+        <trans-unit id="Table 3557637949 - Field 268958358 - Method 1213635141 - NamedType 4195431436" size-unit="char" translate="yes" xml:space="preserve">
+          <source>the is removed label</source>
+          <target>це видалена мітка</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field Table TRE Check Table - Field - Method OnLookup - NamedType Table TRE Check Table - Field Field "7" - Property Caption</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field Table TRE Check Table - Field - Method OnLookup - NamedType removed problematic label</note>
         </trans-unit>
         <trans-unit id="Table 3557637949 - FieldGroup 2808719797 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Dropdown</source>
