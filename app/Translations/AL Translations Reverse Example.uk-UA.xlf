@@ -1425,6 +1425,24 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TRE Employee App. Card - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 124649286 - Action 3324780168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Documents</source>
+          <target>Документи</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Employee App. Card - Action Documents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 124649286 - Action 732075481 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Paysheet by Payment Items.</source>
+          <target>Визначає відомість по видам розрахунків.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Employee App. Card - Action Paysheet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 124649286 - Action 732075481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Paysheet by Payment Items</source>
+          <target>Відомість по видам розрахунків</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Employee App. Card - Action Paysheet - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Report 393243173 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Check Report</source>
           <target>Перевірка друкованої форми</target>
