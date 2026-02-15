@@ -1413,6 +1413,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TRE Check Page - Action SomeGroupInPromoted - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 124649286 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Reports,Actions,History,Print</source>
+          <target>Створити,Процес,Звіти,Дії,Історія,Друк</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Employee App. Card - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 124649286 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Appointment Card</source>
+          <target>Картка призначення співробітника</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TRE Employee App. Card - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Report 393243173 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Check Report</source>
           <target>Перевірка друкованої форми</target>
