@@ -663,12 +663,26 @@
           <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledLocalFunction - NamedType myLocalFilterNoDescription</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - Method 1189133520 - NamedType 4092571664" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Posting Date field is blank. Timesheet cannot be posted.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2">uk-UA=Дата обліку знаходиться в закритому зарплатному періоді. Табель не може бути облікований.</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledLocalFunction - NamedType EmptyPostingDateErr</note>
+        </trans-unit>
         <trans-unit id="Codeunit 2440856594 - Method 1189133520 - NamedType 238116601" size-unit="char" translate="yes" xml:space="preserve">
           <source>The selected project tasks have different %1. Please select project tasks with the same %1.</source>
           <target>[NAB: NOT TRANSLATED]</target>
           <note from="Developer" annotates="general" priority="2">%1 - "CRTUA Agreement No." caption</note>
           <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledLocalFunction - NamedType DifferentAgreementNoErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2440856594 - Method 1189133520 - NamedType 2932411483" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting date is in the closed payroll period. Timesheet cannot be posted.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TRE Check Codeunit - Method CalledLocalFunction - NamedType PostingDateErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 1547683966 - NamedType 1626783127" size-unit="char" translate="yes" xml:space="preserve">
           <source>Global %1 label</source>
