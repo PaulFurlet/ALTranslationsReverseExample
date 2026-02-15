@@ -145,6 +145,18 @@ table 50000 "TRE Check Table"
             Caption = 'Option field';
             ToolTip = 'Tooltip for option field.';
         }
+        field(11; "Field with endspace "; Decimal)
+        {
+            DataClassification = CustomerContent;
+            Caption = 'Field with space in the end ';
+            ToolTip = 'This is a field with space in the end ';
+        }
+        field(12; " Field with-dash and spaces "; Decimal)
+        {
+            DataClassification = CustomerContent;
+            Caption = ' The Field with-dash and spaces ';
+            ToolTip = ' This is the field with-dash and spaces ';
+        }
         field(24; "Non-billable for PE Invoice"; Decimal)
         {
             DataClassification = CustomerContent;

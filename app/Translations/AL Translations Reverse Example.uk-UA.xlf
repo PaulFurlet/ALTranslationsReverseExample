@@ -183,6 +183,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Method OnRename - NamedType LocalLabel</note>
         </trans-unit>
+        <trans-unit id="Table 3557637949 - Field 2500714921 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> This is the field with-dash and spaces </source>
+          <target> Це поле з дефісом та пробілами </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field  Field with-dash and spaces  - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Field 2500714921 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> The Field with-dash and spaces </source>
+          <target> Поле з дефісом та пробілами </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field  Field with-dash and spaces  - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3557637949 - Field 2256973727 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>This is 'field' 7.</source>
           <target>Це 'поле' 7.</target>
@@ -279,6 +291,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field Field 4 - Method OnValidate - NamedType Method OnLookup - NamedType LocalLabel in name</note>
         </trans-unit>
+        <trans-unit id="Table 3557637949 - Field 2058863997 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a field with space in the end </source>
+          <target>Це поле з пробілом в кінці </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field Field with endspace  - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3557637949 - Field 2058863997 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field with space in the end </source>
+          <target>Поле з пробілом в кінці </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TRE Check Table - Field Field with endspace  - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3557637949 - Field 428084024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Field6</source>
           <target>Поле 6</target>
@@ -361,14 +385,12 @@
           <source>global Label with space in name and caption </source>
           <target>Глобальна мітка з пробілом у назві та підписі </target>
           <note from="Developer" annotates="general" priority="2">will you handle ending space in comment? </note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Name-with Dash and space  - NamedType Label with space in name </note>
         </trans-unit>
         <trans-unit id="Codeunit 1329016315 - Method 2765816795 - NamedType 1486399084" size-unit="char" translate="yes" xml:space="preserve">
           <source>Local Label in with-dash and space </source>
           <target>Локальна мітка в-з дефісом та пробілом </target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Name-with Dash and space  - Method CreateNewExtension - NamedType Label-with dash and space </note>
         </trans-unit>
         <trans-unit id="Codeunit 2440856594 - NamedType 2800131209" size-unit="char" translate="yes" xml:space="preserve">
