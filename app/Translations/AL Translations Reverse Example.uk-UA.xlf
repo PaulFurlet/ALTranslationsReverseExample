@@ -2352,6 +2352,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Property AdditionalSearchTerms</note>
         </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Action 4040302370 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2077750279">
+          <source>This is a group for report actions.</source>
+          <target>Це група для дій звіту.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Action  Report - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3595708100 - Action 4040302370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2077750279">
+          <source>Report</source>
+          <target>Звіт</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TRE Check Sales Lines - Action  Report - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 3595708100 - Action 131660274 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2730782453">
           <source>About TRE Custom Action</source>
           <target>Про TRE Користувацьку Дію</target>

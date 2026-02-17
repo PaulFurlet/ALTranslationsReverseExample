@@ -102,13 +102,18 @@ pageextension 50000 "TRE Check Sales Lines" extends "Job Task Lines Subform"
     {
         addfirst(Processing)
         {
-            action("TRE Custom Action")
+            group(" Report")
             {
-                Caption = 'TRE Custom Action';
-                ToolTip = 'This is a custom action added in the Check Sales Lines page extension.';
-                AboutText = 'About TRE Custom Action';
-                AboutTitle = 'About TRE Custom Action';
-                RunObject = page "TRE Check Page";
+                Caption = 'Report';
+                ToolTip = 'This is a group for report actions.';
+                action("TRE Custom Action")
+                {
+                    Caption = 'TRE Custom Action';
+                    ToolTip = 'This is a custom action added in the Check Sales Lines page extension.';
+                    AboutText = 'About TRE Custom Action';
+                    AboutTitle = 'About TRE Custom Action';
+                    RunObject = page "TRE Check Page";
+                }
             }
             fileuploadaction(UploadFile)
             {
